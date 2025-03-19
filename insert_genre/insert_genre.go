@@ -35,7 +35,7 @@ func ImportFakeGenre() {
 
 	for _, nation := range nationList {
 		id := cuid.New()
-		nation.Desc = "Description of " + nation.Name
+		natio.Desc = "Description of " + nation.Name
 		err = repositories.Dbclient.QueryRow(queryInsert, id, nation.Name, nation.Desc, nation.Slug, time.Now(), time.Now()).Scan(&idReturn)
 		if err != nil {
 			fmt.Println("Error inserting nation", err)

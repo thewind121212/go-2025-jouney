@@ -1,4 +1,4 @@
-package _interface
+package _structs
 
 import "time"
 

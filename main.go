@@ -1,7 +1,11 @@
 package main
 
-import "wliafdew/go-2025/fake_user"
+import (
+	"wliafdew/go-2025/insert_genre"
+	"wliafdew/go-2025/repositories"
+)
 
 func main() {
-	fake_user.ImportFakeUserPg()
+	repositories.InitDbConnection()
+	insert_genre.ImportFakeGenre()
 }

@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"strings"
 	"time"
-	"wliafdew/go-2025/interface"
+	"wliafdew/go-2025/structs"
 )
 
 func getCountry() []string {
@@ -107,7 +107,7 @@ func ImportFakeUserPg() {
 	scanner := bufio.NewScanner(file)
 
 	var row []string
-	var newUser []_interface.User
+	var newUser []_structs.User
 
 	for scanner.Scan() {
 		line := scanner.Text()
@@ -120,7 +120,7 @@ func ImportFakeUserPg() {
 	}
 
 	for _, v := range row {
-		var user _interface.User
+		var user _structs.User
 		ms := v[1 : len(v)-2]
 		data := strings.Split(ms, ",")
 		user.ID = cuid.New()

@@ -1,4 +1,4 @@
-package insert_nation
+package fakeData
 
 import (
 	"encoding/json"
@@ -11,7 +11,7 @@ import (
 	_structs "wliafdew/go-2025/structs"
 )
 
-func ImportFakeNation() {
+func ImportFakeNationMoviePg() {
 
 	fmt.Println("ImportFakeNation called")
 

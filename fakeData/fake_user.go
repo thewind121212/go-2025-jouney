@@ -1,17 +1,16 @@
-package fake_user
+package fakeData
 
 import (
 	"bufio"
-	"database/sql"
 	"encoding/json"
 	"fmt"
-	_ "github.com/lib/pq"
 	"github.com/lucsky/cuid"
 	"math/rand"
 	"os"
 	"strconv"
 	"strings"
 	"time"
+	"wliafdew/go-2025/repositories"
 	"wliafdew/go-2025/structs"
 )
 
@@ -76,28 +75,6 @@ func ImportFakeUserPg() {
 	//fix
 	gender := [3]string{"Male", "Female", "Other"}
 
-	connStr := "postgresql://admin:linhporo1@10.10.0.216:5432/test?sslmode=disable"
-	//drive and uri connnection
-	db, err := sql.Open("postgres", connStr)
-
-	//defer close connection this is best practice
-	defer func(db *sql.DB) {
-		err := db.Close()
-		if err != nil {
-			fmt.Println(err)
-		}
-	}(db)
-
-	if err != nil {
-		fmt.Println(err)
-	}
-
-	err = db.Ping()
-
-	if err != nil {
-		fmt.Println("Error connecting to the database: ", err)
-	}
-
 	file, err := os.Open("300000_users.sql")
 
 	if err != nil {
@@ -156,7 +133,7 @@ func ImportFakeUserPg() {
 
 	for i, v := range newUser {
 		var id string
-		err = db.QueryRow(queryInsert, v.ID, v.Email, v.Password, v.Name, v.BirthDate, v.Gender, v.Country, v.TimeZone).Scan(&id)
+		err = repositories.Dbclient.QueryRow(queryInsert, v.ID, v.Email, v.Password, v.Name, v.BirthDate, v.Gender, v.Country, v.TimeZone).Scan(&id)
 
 		if err != nil {
 			fmt.Println(err)

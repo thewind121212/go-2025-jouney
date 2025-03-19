@@ -1,4 +1,4 @@
-package insert_genre
+package fakeData
 
 import (
 	"encoding/json"
@@ -11,7 +11,7 @@ import (
 	_structs "wliafdew/go-2025/structs"
 )
 
-func ImportFakeGenre() {
+func ImportFakeGenrePg() {
 
 	fmt.Println("importFakeGenre called")
 
@@ -35,7 +35,7 @@ func ImportFakeGenre() {
 
 	for _, nation := range nationList {
 		id := cuid.New()
-		natio.Desc = "Description of " + nation.Name
+		nation.Desc = "Description of " + nation.Name
 		err = repositories.Dbclient.QueryRow(queryInsert, id, nation.Name, nation.Desc, nation.Slug, time.Now(), time.Now()).Scan(&idReturn)
 		if err != nil {
 			fmt.Println("Error inserting nation", err)

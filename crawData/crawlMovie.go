@@ -13,9 +13,15 @@ import (
 
 var allMovie []_structs.Movie
 
-func fetchData(page int) {
+type crawData struct {
+	Type     string `json:"type"`
+	Page     int    `json:"page"`
+	JsonFile string `json:"json_file"`
+}
 
-	url := fmt.Sprintf("https://phimapi.com/v1/api/danh-sach/phim-le?limit=64&page=%d&sort_type=asc", page)
+func fetchData(page int, movieType string) {
+
+	url := fmt.Sprintf("https://phimapi.com/v1/api/danh-sach/%s?limit=64&page=%d&sort_type=asc", movieType, page)
 
 	res, err := http.Get(url)
 	if err != nil {
@@ -41,14 +47,25 @@ func fetchData(page int) {
 }
 
 func RunCrawl() {
-	totalPage := 213
-	for i := 1; i <= totalPage; i++ {
-		fetchData(1)
+
+	movieDataCraw := []crawData{
+		{Type: "phim-le", Page: 213, JsonFile: "phim-le.json"},
+		{Type: "phim-bo", Page: 90, JsonFile: "phim-bo.json"},
+		{Type: "tv-shows", Page: 3, JsonFile: "tv-shows.json"},
+		{Type: "hoat-hinh", Page: 38, JsonFile: "hoat-hinh.json"},
+	}
+
+	fmt.Println(movieDataCraw)
+
+	crawSelected := movieDataCraw[3]
+
+	for i := 1; i <= crawSelected.Page; i++ {
+		fetchData(i, crawSelected.Type)
 		fmt.Println(len(allMovie))
 		time.Sleep(2 * time.Second)
 	}
 
-	fileMovie, err := os.Create("movie.json")
+	fileMovie, err := os.Create(crawSelected.JsonFile)
 
 	if err != nil {
 		fmt.Println("Error creating file", err)

@@ -1,0 +1,5494 @@
+[
+  {
+    "modified": { "time": "2023-12-13T04:08:26.000Z" },
+    "_id": "86f2fbb60fb7b50c94009182fb4edcdd",
+    "name": "Môi Giới Hoàng Hôn (Phần 6)",
+    "slug": "moi-gioi-hoang-hon-phan-6",
+    "origin_name": "Selling Sunset (Season 6)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20231204-1/9ee93f9b3e562f090712459a0a905272.jpg",
+    "thumb_url": "upload/vod/20231204-1/e2ac2c94a76a9ef5f154e5a3d48f83e0.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "32 phút/tập",
+    "episode_current": "Hoàn Tất (11/11)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2023-12-14T23:29:40.000Z" },
+    "_id": "10cc088a48f313ab3b1f4e6e76353dd4",
+    "name": "Dọn Nhà Cùng Marie Kondo",
+    "slug": "don-nha-cung-marie-kondo",
+    "origin_name": "Tidying Up with Marie Kondo",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20231204-1/e8e207d63df8acf7db6f3dedf99ae4a3.jpg",
+    "thumb_url": "upload/vod/20231204-1/3c27bdd75e84d66b20cdde7257acc7eb.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "47 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2019,
+    "category": [
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2023-12-15T02:28:26.000Z" },
+    "_id": "486c0401c56bf7ec2daa9eba58907da9",
+    "name": "Ngày Đổi Người Yêu (Phần 2)",
+    "slug": "ngay-doi-nguoi-yeu-phan-2",
+    "origin_name": "Change Days (Season 2)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20231204-1/599be367843a02d4a40490dc7acd074d.jpg",
+    "thumb_url": "upload/vod/20231204-1/9f0cb54d2f8b36f95529f9389947dadd.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "78 phút/tập",
+    "episode_current": "Hoàn Tất (16/16)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2021,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2023-12-18T14:48:58.000Z" },
+    "_id": "9079ea527e08a24dfad44e3302d5f091",
+    "name": "Britney Vs Spears",
+    "slug": "britney-vs-spears",
+    "origin_name": "Britney Vs Spears",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20231206-1/852203b22f1e24ac12863327f8478463.jpg",
+    "thumb_url": "upload/vod/20231206-1/0d6321ac890099b8c41673cd6d3d049c.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "93 phút",
+    "episode_current": "Full",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2021,
+    "category": [
+      {
+        "id": "252e74b4c832ddb4233d7499f5ed122e",
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2023-12-18T15:39:27.000Z" },
+    "_id": "1977ab8c9f9473d8594671be4ddf9e7f",
+    "name": "Đạo Luật Yêu Nước Với Hasan Minhaj (Phần 6)",
+    "slug": "dao-luat-yeu-nuoc-voi-hasan-minhaj-phan-6",
+    "origin_name": "Patriot Act with Hasan Minhaj (Season 6)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20231207-1/fcc89b587082a0a1df362a08b3c1bc21.jpg",
+    "thumb_url": "upload/vod/20231207-1/1aacb303dce6e6e70b9883c57db9a1a3.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "26 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2020,
+    "category": [
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-01-03T14:35:51.000Z" },
+    "_id": "0c0bf917c7942b5a08df71f9da626f97",
+    "name": "Lần Hẹn Hò Thứ N",
+    "slug": "lan-hen-ho-thu-n",
+    "origin_name": "Lần Hẹn Hò Thứ N",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20231219-1/93028043656ef57eb90711410c18698d.jpg",
+    "thumb_url": "upload/vod/20231219-1/408d64f4dfbe89b33bb5270511c2dfcf.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "25 phút/tập",
+    "episode_current": "Hoàn Tất (9/9)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "f6ce1ae8b39af9d38d653b8a0890adb8",
+        "name": "Việt Nam",
+        "slug": "viet-nam"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-01-05T18:45:39.000Z" },
+    "_id": "b651cae8df57ba4f067380ea9ea6ae73",
+    "name": "Đảo Tình Yêu Australia (Phần 1)",
+    "slug": "dao-tinh-yeu-australia-phan-1",
+    "origin_name": "Love Island Australia (Season 1)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20231219-1/265a9fa6e10562a15ab3d6a9394702ac.jpg",
+    "thumb_url": "upload/vod/20231219-1/86fb73bef087b21eb1c2037d26bf86ab.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "66 phút/tập",
+    "episode_current": "Hoàn Tất (30/30)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2018,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      { "id": "435a85571578e419ed511257881a1e75", "name": "Úc", "slug": "uc" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-01-05T18:46:25.000Z" },
+    "_id": "7314d504754f8d59517932ccb4f89d13",
+    "name": "Là Giả Hay Yêu?",
+    "slug": "la-gia-hay-yeu",
+    "origin_name": "Deep Fake Love",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20231219-1/e7977d873f8aa19ab18f1803759afc19.jpg",
+    "thumb_url": "upload/vod/20231219-1/74e4de13b2855173b71248ddeeaad437.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "50 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "8a40abac202ab3659bb98f71f05458d1",
+        "name": "Tây Ban Nha",
+        "slug": "tay-ban-nha"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-01-13T09:31:29.000Z" },
+    "_id": "a07cdaf1f134bf6539381f75f868a9ae",
+    "name": "Nhà Bếp Địa Ngục (Phần 17)",
+    "slug": "nha-bep-dia-nguc-phan-17",
+    "origin_name": "Hell\u0026#039;s Kitchen (Season 17)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20231219-1/9fc087f1f75296aa4606dd89f51170b0.jpg",
+    "thumb_url": "upload/vod/20231219-1/6fb7bb3f1c26580b44c2b436b3fb545d.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "43 phút/tập",
+    "episode_current": "Hoàn Tất (16/16)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2017,
+    "category": [
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-01-14T08:56:14.000Z" },
+    "_id": "ba4849411c8bbdd386150e5e32204198",
+    "name": "Bậc Thầy Thiết Kế Nội Thất",
+    "slug": "bac-thay-thiet-ke-noi-that",
+    "origin_name": "Interior Design Masters",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20231219-1/75e62391717e4c2ae5b709c56d7d2d46.jpg",
+    "thumb_url": "upload/vod/20231219-1/96d87171e56335d0a2fca55ecb73c537.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "48 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2019,
+    "category": [
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-01-28T04:38:21.000Z" },
+    "_id": "18cd151a4b7a5f5258220cfd707fd67b",
+    "name": "Tình Yêu Không Lừa Dối: Ba Lan",
+    "slug": "tinh-yeu-khong-lua-doi-ba-lan",
+    "origin_name": "Love Never Lies: Poland",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240112-1/5bdc3bdd1f4598243663981d6c307f77.jpg",
+    "thumb_url": "upload/vod/20240112-1/a188dc5ea3894b5e87ef802998a8e8dd.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "45 phút/tập",
+    "episode_current": "Hoàn Tất (7/7)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      {
+        "id": "bf40692b8ab4f6d803575e36ffaa4654",
+        "name": "Ba Lan",
+        "slug": "ba-lan"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-02-03T03:50:37.000Z" },
+    "_id": "9a0f86604fa1dc1686a0cad86a808a5c",
+    "name": "Nhà Bếp Địa Ngục (Phần 20)",
+    "slug": "nha-bep-dia-nguc-phan-20",
+    "origin_name": "Hell\u0026#039;s Kitchen (Season 20)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240116-1/a76d4c4396caa8bb9eef95408a628f1a.jpg",
+    "thumb_url": "upload/vod/20240116-1/6c693de170c417323f05ccac8d0689a9.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "43 phút/tập",
+    "episode_current": "Hoàn Tất (16/16)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2021,
+    "category": [
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-02T04:31:14.000Z" },
+    "_id": "58fe2003170159fd68519b7f9840fdb2",
+    "name": "Nhịp Điệu Hip Hop: Pháp (Phần 2)",
+    "slug": "nhip-dieu-hip-hop-phap-phan-2",
+    "origin_name": "Rhythm + Flow France (Season 2)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240126-1/9412b0f7a292f3d6ebf20a141e5d20e3.jpg",
+    "thumb_url": "upload/vod/20240126-1/0103d4060d9976fd61d22b1bb4298a3f.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "40 phút/tập",
+    "episode_current": "Hoàn Tất (4/4)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "252e74b4c832ddb4233d7499f5ed122e",
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      }
+    ],
+    "country": [
+      {
+        "id": "932bbaca386ee0436ad0159117eabae4",
+        "name": "Anh",
+        "slug": "anh"
+      },
+      {
+        "id": "92f688188aa938a03a61a786d6616dcb",
+        "name": "Pháp",
+        "slug": "phap"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-07T05:16:24.000Z" },
+    "_id": "722fd8c97825bdea860322e28ac6dcbd",
+    "name": "Quarterback",
+    "slug": "quarterback",
+    "origin_name": "Quarterback",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240205-1/2770a8d93923b579c99de3ea1e2b159d.jpg",
+    "thumb_url": "upload/vod/20240205-1/f3372886f6e91bb75a5cf69d65ed7bb1.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "51 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "591bbb2abfe03f5aa13c08f16dfb69a2",
+        "name": "Thể Thao",
+        "slug": "the-thao"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-07T05:26:24.000Z" },
+    "_id": "db0d4963149c89b0cc76ffd6aaacf002",
+    "name": "Cách Xây Dựng Phòng \u0026#039;Yêu\u0026#039;",
+    "slug": "cach-xay-dung-phong-yeu",
+    "origin_name": "How To Build A Sex Room",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240205-1/6bb1b79aadc374ca9ead4adda8adfcc5.jpg",
+    "thumb_url": "upload/vod/20240205-1/53c39f4ff4b92d85c2dfa61b96efe9f8.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "45 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-08T03:37:40.000Z" },
+    "_id": "b050b09d2d80bdc271a775f5b4639258",
+    "name": "Thanh Lâm Kỳ Cảnh 3",
+    "slug": "thanh-lam-ky-canh-3",
+    "origin_name": "Thanh Lâm Kỳ Cảnh 3",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240205-1/3a88216c6248c6fc8b22dd7b543cd091.jpg",
+    "thumb_url": "upload/vod/20240205-1/e7f6fd8bca284817c0b6c03c931d4df6.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "90 phút/tập",
+    "episode_current": "Hoàn Tất (14/14)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2020,
+    "category": [
+      {
+        "id": "252e74b4c832ddb4233d7499f5ed122e",
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-08T03:46:57.000Z" },
+    "_id": "5cbd8331fac120a295879dc62b0d10ed",
+    "name": "Sự Cám Dỗ Nóng Bỏng: Đức",
+    "slug": "su-cam-do-nong-bong-duc",
+    "origin_name": "Too Hot To Handle: Germany",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240205-1/551329226c5f17dec9bb4ea4df478f65.jpg",
+    "thumb_url": "upload/vod/20240205-1/180e619032f2071371707e4bd8cb655c.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "60 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      { "id": "24a5bf049aeef94ab79bad1f73f16b92", "name": "Đức", "slug": "duc" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-09T02:52:18.000Z" },
+    "_id": "e3d389ef8c92b280760c6ebd647c2cee",
+    "name": "Không Gian Tình Yêu",
+    "slug": "khong-gian-tinh-yeu",
+    "origin_name": "Không Gian Tình Yêu",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240209-1/c1babaddf22aa12eea9cc2cbb5afd88c.jpg",
+    "thumb_url": "upload/vod/20240209-1/f6a80140c2253cbaecf5f55d3d05c0bb.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "90 phút/tập",
+    "episode_current": "Hoàn Tất (13/13)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2019,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-12T02:19:18.000Z" },
+    "_id": "03931ca4c77a6f980d21609d4846dd31",
+    "name": "Mãi Mãi Là Diva",
+    "slug": "mai-mai-la-diva",
+    "origin_name": "Forever Queens",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240215-1/08d2b8d048fc36ef1ddb45eeb8fbd5d6.jpg",
+    "thumb_url": "upload/vod/20240215-1/138c962467c491114e74237f251e06f9.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "54 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      {
+        "id": "8dbb07a18d46f63d8b3c8994d5ccc351",
+        "name": "Mexico",
+        "slug": "mexico"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-17T02:24:13.000Z" },
+    "_id": "12d836bf64839f987338414ccbec657f",
+    "name": "Katt Williams: Thế Chiến III",
+    "slug": "katt-williams-the-chien-iii",
+    "origin_name": "Katt Williams: World War III",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240228-1/f4635b3c45e513ceb81cd5659cbc9cc6.jpg",
+    "thumb_url": "upload/vod/20240228-1/a9adcccd8708dbfcf3f3d96f10642ceb.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "59 phút",
+    "episode_current": "Full",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-18T02:23:38.000Z" },
+    "_id": "760505598bcd4e4ff57b77bbff4f7f9d",
+    "name": "Yêu Là Mù Quáng: Brazil",
+    "slug": "yeu-la-mu-quang-brazil",
+    "origin_name": "Love Is Blind: Brazil",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240228-1/5503a42ab34a28b4e9c81ce4d8f81cf9.jpg",
+    "thumb_url": "upload/vod/20240228-1/e213a4f1274f957a786943616858aab6.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "61 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2021,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "932bbaca386ee0436ad0159117eabae4",
+        "name": "Anh",
+        "slug": "anh"
+      },
+      {
+        "id": "42537f0fb56e31e20ab9c2305752087d",
+        "name": "Brazil",
+        "slug": "brazil"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-24T02:24:19.000Z" },
+    "_id": "efaf8fe94a274cae9685b96a9690c045",
+    "name": "Ngọn Núi Bông Tuyết: Thử Thách Trưởng Thành",
+    "slug": "ngon-nui-bong-tuyet-thu-thach-truong-thanh",
+    "origin_name": "Snowflake Mountain",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240229-1/287afe3b58b7f38676cb78e5c4fa0397.jpg",
+    "thumb_url": "upload/vod/20240229-1/6b0a9f5b73c7770499ba194cd15f94ff.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "37 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-24T02:24:42.000Z" },
+    "_id": "60ec3eff9d5505195d32364a32670d36",
+    "name": "Iliza Shlesinger: Hài Kịch Ngắn",
+    "slug": "iliza-shlesinger-hai-kich-ngan",
+    "origin_name": "The Iliza Shlesinger Sketch Show",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240229-1/c5fde58de4cf2530d5858bd9dba2f595.jpg",
+    "thumb_url": "upload/vod/20240229-1/eb7b3eb5e1532f95dafed67dcfb3972c.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "20 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2020,
+    "category": [
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-27T01:00:12.000Z" },
+    "_id": "07cdd403268d6f173eff1fc8dac04d63",
+    "name": "Kịch Bản Chuyện Tình",
+    "slug": "kich-ban-chuyen-tinh",
+    "origin_name": "The Future Diary",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240302-1/8190ecee7fa511f40e1d84f6f7f07c5c.jpg",
+    "thumb_url": "upload/vod/20240302-1/1a08e4029eac393d00e0adf52a5e122d.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "35 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2021,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "d4097fbffa8f7149a61281437171eb83",
+        "name": "Nhật Bản",
+        "slug": "nhat-ban"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-27T01:04:00.000Z" },
+    "_id": "d1aae872c07c10af8bc9918fdb28c28c",
+    "name": "Chuyến Du Lịch Lãng Mạn Của Người Vợ",
+    "slug": "chuyen-du-lich-lang-man-cua-nguoi-vo",
+    "origin_name": "Viva La Romance",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240302-1/b3dedc53ee8001fa4c81e19d24dcd34d.jpg",
+    "thumb_url": "upload/vod/20240302-1/c471c7f1bfb48c4992b545d9d32f0a5f.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "70 phút/tập",
+    "episode_current": "Hoàn Tất (7/7)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2018,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-27T01:37:20.000Z" },
+    "_id": "68b3d03d38ad88126ede9cee289b6661",
+    "name": "Dễ Như Ăn Bánh! Thử Thách Siêu Cấp",
+    "slug": "de-nhu-an-banh-thu-thach-sieu-cap",
+    "origin_name": "The Big Nailed It Baking Challenge",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240304-1/fef56e474276704952ea533e3d93cd63.jpg",
+    "thumb_url": "upload/vod/20240304-1/14e1ef0799a133209cc7743b8790298e.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "50 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-27T23:29:54.000Z" },
+    "_id": "a5460fe6c23289fddcfe66efe033ae08",
+    "name": "Bếp Trưởng Năm Sao",
+    "slug": "bep-truong-nam-sao",
+    "origin_name": "Five Star Chef",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240304-1/a82f1a92e099dddd95277432a67c53de.jpg",
+    "thumb_url": "upload/vod/20240304-1/4eeb0d2bc2a1696cdb200a6722546bb4.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "46 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-29T01:04:20.000Z" },
+    "_id": "9dbc59f98f5e213ac6967df00e1e1e06",
+    "name": "Dance 100",
+    "slug": "dance-100",
+    "origin_name": "Dance 100",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240305-1/5c58ba0f09449766e7aee6910d2aa53a.jpg",
+    "thumb_url": "upload/vod/20240305-1/f8f71223b3e260ef30f855818d145f72.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "59 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "252e74b4c832ddb4233d7499f5ed122e",
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-29T01:12:42.000Z" },
+    "_id": "030869ecc70e997804feed92f3a8fbdc",
+    "name": "Chuyện Người Lớn: Đài Loan",
+    "slug": "chuyen-nguoi-lon-dai-loan",
+    "origin_name": "Risqué Business: Taiwan",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240305-1/e0aa3397f3d5eac55f0be641eeff5454.jpg",
+    "thumb_url": "upload/vod/20240305-1/765eb381cb5efa45d4552afebd6d9b63.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "42 phút/tập",
+    "episode_current": "Hoàn Tất (5/5)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-29T01:14:02.000Z" },
+    "_id": "40ace1babb133e1ea17f09932dd2e508",
+    "name": "Tối Hậu Thư: Tình Yêu Queer",
+    "slug": "toi-hau-thu-tinh-yeu-queer",
+    "origin_name": "The Ultimatum: Queer Love",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240305-1/58b23829572de90893331171659ccc8f.jpg",
+    "thumb_url": "upload/vod/20240305-1/219555c28b55a77fe6cbb0e51550e756.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "50 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-31T21:19:02.000Z" },
+    "_id": "8644904d5b64c5c3111996d2d545ca9d",
+    "name": "Sự Cám Dỗ Nóng Bỏng (Phần 5)",
+    "slug": "su-cam-do-nong-bong-phan-5",
+    "origin_name": "Too Hot To Handle (Season 5)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240308-1/3ef042943dcc51fbd7b6f9f388f94c70.jpg",
+    "thumb_url": "upload/vod/20240308-1/c7cd3b042f782c0abdec868ee1bfba6d.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "41 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-31T21:19:45.000Z" },
+    "_id": "5b8ac1bf8013b0204a2c0e1988aafe75",
+    "name": "IRL - In Real Love",
+    "slug": "irl-in-real-love",
+    "origin_name": "IRL - In Real Love",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240308-1/8bd595447ff2b93f731349f236828829.jpg",
+    "thumb_url": "upload/vod/20240308-1/5b9e2e4ab46ac003798e594a0679eb1b.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "52 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "aadd510492662beef1a980624b26c685",
+        "name": "Ấn Độ",
+        "slug": "an-do"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-31T21:33:08.000Z" },
+    "_id": "02a4f95155ad30321d3a88b53b85f2d6",
+    "name": "Gian Lận",
+    "slug": "gian-lan",
+    "origin_name": "Cheat",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240309-1/0778413a8f503e92c9a57fb11b104026.jpg",
+    "thumb_url": "upload/vod/20240309-1/91fe15a89a66ccb555766ebf7f9b5f44.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "42 phút/tập",
+    "episode_current": "Hoàn Tất (12/12)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-31T21:34:04.000Z" },
+    "_id": "6358390c66d2575ac3607502a92e34af",
+    "name": "Là Bánh Hay Gì? (Phần 2)",
+    "slug": "la-banh-hay-gi-phan-2",
+    "origin_name": "Is It Cake? (Season 2)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240309-1/93511ac665df369b1af9fbb9ca05a839.jpg",
+    "thumb_url": "upload/vod/20240309-1/3a3ac58d5fd61e5d22012a063421b36f.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "45 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      },
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-03-31T22:11:43.000Z" },
+    "_id": "d9e7aeae02fade22d8a268303051be75",
+    "name": "Tối Ưu Hóa Không Gian Nhà",
+    "slug": "toi-uu-hoa-khong-gian-nha",
+    "origin_name": "Hack My Home",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240308-1/36b0b8facdb7f8b8d4fbfdc97ebc4459.jpg",
+    "thumb_url": "upload/vod/20240308-1/87b0d9a12c0d10e9664c5b2a2c16fca6.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "36 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-04-01T01:08:45.000Z" },
+    "_id": "07fb6ce39032041f0d9e1cbeb08f2fb2",
+    "name": "Thể Chất: 100",
+    "slug": "the-chat-100",
+    "origin_name": "Physical: 100",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240309-1/05d324ff199a56f51112641d3fdc006c.jpg",
+    "thumb_url": "upload/vod/20240309-1/f9414ac6f3583ace65f3fca8068cafaf.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "53 phút/tập",
+    "episode_current": "Hoàn Tất (9/9)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      {
+        "id": "591bbb2abfe03f5aa13c08f16dfb69a2",
+        "name": "Thể Thao",
+        "slug": "the-thao"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-04-01T01:17:13.000Z" },
+    "_id": "eadc317f2764a00bec1b729a56321cd3",
+    "name": "Tim Robinson: Tôi Nghĩ Bạn Nên Ra Về (Phần 3)",
+    "slug": "tim-robinson-toi-nghi-ban-nen-ra-ve-phan-3",
+    "origin_name": "I Think You Should Leave With Tim Robinson (Season 3)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240309-1/492cdcaa6c10fd1c6da4595c5d3549e7.jpg",
+    "thumb_url": "upload/vod/20240309-1/7a65eb0cdfdef4e411c1f0aa2677ae90.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "17 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-04-01T01:54:27.000Z" },
+    "_id": "9a1d39510aeba78469e4c2c1fbceb8dd",
+    "name": "Yêu Là Mù Quáng: Brazil (Phần 3)",
+    "slug": "yeu-la-mu-quang-brazil-phan-3",
+    "origin_name": "Love Is Blind: Brazil (Season 3)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240309-1/53ba4f24778018e849e81ca0b8d4dcf3.jpg",
+    "thumb_url": "upload/vod/20240309-1/e2b2953a5c53b0b8a4fd5ec3aaa24232.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "61 phút/tập",
+    "episode_current": "Hoàn Tất (11/11)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "932bbaca386ee0436ad0159117eabae4",
+        "name": "Anh",
+        "slug": "anh"
+      },
+      {
+        "id": "42537f0fb56e31e20ab9c2305752087d",
+        "name": "Brazil",
+        "slug": "brazil"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-04-01T01:57:12.000Z" },
+    "_id": "b777ce76ec5633eacf713f4f8e08caf6",
+    "name": "Bậc Thầy Thịt Nướng (Phần 2)",
+    "slug": "bac-thay-thit-nuong-phan-2",
+    "origin_name": "Barbecue Showdown (Season 2)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240309-1/c04f97d2a3e8453200eb6cae9999edc3.jpg",
+    "thumb_url": "upload/vod/20240309-1/728f5e2cdb787d2027ae9e983dc1d92c.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "44 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-04-01T01:58:56.000Z" },
+    "_id": "c0e1fac1b114b4cfb6d3620c429de433",
+    "name": "Công Việc: Điều Chúng Ta Làm Cả Ngày",
+    "slug": "cong-viec-dieu-chung-ta-lam-ca-ngay",
+    "origin_name": "Working: What We Do All Day",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240309-1/23d0a4e0af4de4c5e8faa0f6d7a974b4.jpg",
+    "thumb_url": "upload/vod/20240309-1/46cc5edba3c39cdac6ad61a0d5172370.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "47 phút/tập",
+    "episode_current": "Hoàn Tất (4/4)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-04-01T01:59:16.000Z" },
+    "_id": "ff6de5ac77370be900c32c9647f0365a",
+    "name": "Làng Tình Yêu",
+    "slug": "lang-tinh-yeu",
+    "origin_name": "Love Village",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240309-1/69b36f707624118fcf0b54199dd84fc4.jpg",
+    "thumb_url": "upload/vod/20240309-1/b9a4dd4c9d7609dbd4346c677405c1ee.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "28 phút/tập",
+    "episode_current": "Hoàn Tất (18/18)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "d4097fbffa8f7149a61281437171eb83",
+        "name": "Nhật Bản",
+        "slug": "nhat-ban"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-04-02T03:46:30.000Z" },
+    "_id": "2cb2cdcca9bdd55a897d897ac67f7e39",
+    "name": "Vua Sưu Tập: Nhà Đấu Giá Goldin",
+    "slug": "vua-suu-tap-nha-dau-gia-goldin",
+    "origin_name": "King Of Collectibles: The Goldin Touch",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240314-1/19265296fd92d1d4c817be8d0b7e09d8.jpg",
+    "thumb_url": "upload/vod/20240314-1/b50abc6a837c24b09abc95928500869d.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "35 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "591bbb2abfe03f5aa13c08f16dfb69a2",
+        "name": "Thể Thao",
+        "slug": "the-thao"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-04-02T03:49:01.000Z" },
+    "_id": "a5ccbf4f58f04a814f80a12e703d7c34",
+    "name": "Nửa Kia Hoàn Hảo",
+    "slug": "nua-kia-hoan-hao",
+    "origin_name": "Perfect Match",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240314-1/710ba06e3e4596e58cf3b33459e301ca.jpg",
+    "thumb_url": "upload/vod/20240314-1/554fe8c0cd3e91a4f7d4f6eb5990a2ba.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "64 phút/tập",
+    "episode_current": "Hoàn Tất (12/12)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-04-02T03:54:39.000Z" },
+    "_id": "d8e786d674ada58984bf0a2e32807381",
+    "name": "Mai Mối Do Thái",
+    "slug": "mai-moi-do-thai",
+    "origin_name": "Jewish Matchmaking",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240314-1/4c5f101f5f1cc73ce47a52c6e3871de7.jpg",
+    "thumb_url": "upload/vod/20240314-1/cd68851146f8364f24425afd49cd71a2.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "33 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-04-03T14:07:05.000Z" },
+    "_id": "e27455a76961ba5843915685a2a1f90d",
+    "name": "Chất Country Của Tôi",
+    "slug": "chat-country-cua-toi",
+    "origin_name": "My Kind Of Country",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240314-1/3ae80c5019e2233ddd02acb68896164a.jpg",
+    "thumb_url": "upload/vod/20240314-1/35f5852d0fddcb4cf24c968f35aa8a58.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "41 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "252e74b4c832ddb4233d7499f5ed122e",
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-04-05T02:16:04.000Z" },
+    "_id": "7bee77d38f5089708e786b75b0b61748",
+    "name": "Môi Giới Hoàng Hôn: Quận Cam (Phần 2)",
+    "slug": "moi-gioi-hoang-hon-quan-cam-phan-2",
+    "origin_name": "Selling The OC (Season 2)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240314-1/66e4124589e3e61992cdc8081bfe3d47.jpg",
+    "thumb_url": "upload/vod/20240314-1/52cb9517ada964d09ddcc4b9b6df44aa.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "39 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-04-06T03:22:19.000Z" },
+    "_id": "467f789a63cd3c1cd1beae2582203b54",
+    "name": "Kế Hoạch Của Quỷ Dữ",
+    "slug": "ke-hoach-cua-quy-du",
+    "origin_name": "The Devil\u0026#039;s Plan",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240314-1/5cf474b271400d91ecd06c988c7429be.jpg",
+    "thumb_url": "upload/vod/20240314-1/3a8cbbece49d0b3a714ffdf1011192d1.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "71 phút/tập",
+    "episode_current": "Hoàn Tất (12/12)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "2fb53017b3be83cd754a08adab3e916c",
+        "name": "Bí Ẩn",
+        "slug": "bi-an"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-04-06T14:37:41.000Z" },
+    "_id": "5eabe0860bc644bc655dcb4c69f5a3c2",
+    "name": "Mắc Kẹt Với Mẹ Thông Gia",
+    "slug": "mac-ket-voi-me-thong-gia",
+    "origin_name": "Stranded With My Mother-in-Law",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240314-1/ff5bdc1b853aae7257c33cd279928ef2.jpg",
+    "thumb_url": "upload/vod/20240314-1/7986d01caf3312fe130e4c748c8a6a45.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "42 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "42537f0fb56e31e20ab9c2305752087d",
+        "name": "Brazil",
+        "slug": "brazil"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-04-07T10:53:07.000Z" },
+    "_id": "98538f596b34bab69a908c8f376983a1",
+    "name": "Sống Sót Ở Thiên đường",
+    "slug": "song-sot-o-thien-duong",
+    "origin_name": "Surviving Paradise",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240324-1/18ac261d338526909cf0aec2b8714cfa.jpg",
+    "thumb_url": "upload/vod/20240324-1/5907550104e19807679d6f4ed80b893a.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "45 phút/tập",
+    "episode_current": "Hoàn Tất (9/9)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-04-09T03:38:12.000Z" },
+    "_id": "259c22cfdc742412a89fe293b53c6e94",
+    "name": "Là Bánh Hay Gì?",
+    "slug": "la-banh-hay-gi",
+    "origin_name": "Is It Cake?",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240324-1/9cbab86bbd6de9edc38a8257204669b1.jpg",
+    "thumb_url": "upload/vod/20240324-1/83ccab664cd0b593773153c2706c6a3c.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "37 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-04-10T01:29:01.000Z" },
+    "_id": "019665ab81a95464a25e2bf069f942f9",
+    "name": "Yêu Là Mù Quáng: Nhật Bản",
+    "slug": "yeu-la-mu-quang-nhat-ban",
+    "origin_name": "Love Is Blind: Japan",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240324-1/ab3d2aec4aaf1e9c45f3228cfbe5e8d2.jpg",
+    "thumb_url": "upload/vod/20240324-1/52b0ea1438e7b7a0bcfe1a6cff625ce1.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "58 phút/tập",
+    "episode_current": "Hoàn Tất (11/11)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "d4097fbffa8f7149a61281437171eb83",
+        "name": "Nhật Bản",
+        "slug": "nhat-ban"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-04-10T01:30:33.000Z" },
+    "_id": "7bbeb6ee3bfac6732d2df45227ae0e69",
+    "name": "Đại Tu Ngôi Nhà Mơ Ứớc (Phần 3)",
+    "slug": "dai-tu-ngoi-nha-mo-uoc-phan-3",
+    "origin_name": "Dream Home Makeover (Season 3)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240324-1/74154cb03f61048f2eec2a8cca29230d.jpg",
+    "thumb_url": "upload/vod/20240324-1/7f06cda8611deb6f95aeb90ab87883a6.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "29 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-04-25T14:04:13.000Z" },
+    "_id": "840e533271f836f24bfa8d33ddb87211",
+    "name": "Yêu Là Mù Quáng: Brazil (Phần 2)",
+    "slug": "yeu-la-mu-quang-brazil-phan-2",
+    "origin_name": "Love Is Blind: Brazil (Season 2)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240403-1/f700367c25e62eea2fdb33148b9d98b1.jpg",
+    "thumb_url": "upload/vod/20240403-1/f7ecca4f5b8d9c26b489b732d3eb3bd3.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "61 phút/tập",
+    "episode_current": "Hoàn Tất (11/11)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      {
+        "id": "42537f0fb56e31e20ab9c2305752087d",
+        "name": "Brazil",
+        "slug": "brazil"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-04-27T01:36:01.000Z" },
+    "_id": "0847428640312d7e5f0804dcb8b2cd01",
+    "name": "Số 1 Hàn Quốc",
+    "slug": "so-1-han-quoc",
+    "origin_name": "Korea No.1",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240409-1/c165304a2ffaaf72bf7796de11e03726.jpg",
+    "thumb_url": "upload/vod/20240409-1/65cb26a0a26fd03eb664602e5dbccdad.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "43 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-05-02T02:32:19.000Z" },
+    "_id": "3f194fbcc671d39373d095ac1e4aab4d",
+    "name": "Tôi Là Siêu Mẫu Châu Á: Cuộc Cách Mạng",
+    "slug": "toi-la-sieu-mau-chau-a-cuoc-cach-mang",
+    "origin_name": "Supermodel Me: Revolution",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240409-1/79031f1787dbe4055bd61f45f1758c5a.jpg",
+    "thumb_url": "upload/vod/20240409-1/0aab65b855ca8d6fdd94ba173f96fe21.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "46 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      {
+        "id": "45a260effdd4ba38e861092ae2a1b96a",
+        "name": "Quốc Gia Khác",
+        "slug": "quoc-gia-khac"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-05-02T02:32:35.000Z" },
+    "_id": "d78931067f2c9f1cfb9165f1d73e67e7",
+    "name": "Quý Bà Tamara",
+    "slug": "quy-ba-tamara",
+    "origin_name": "Lady Tamara",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240409-1/1115b62ff871ce377221045b40966076.jpg",
+    "thumb_url": "upload/vod/20240409-1/2ba641870472604314e41daf5285a60f.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "39 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      }
+    ],
+    "country": [
+      {
+        "id": "8a40abac202ab3659bb98f71f05458d1",
+        "name": "Tây Ban Nha",
+        "slug": "tay-ban-nha"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-05-03T14:30:26.000Z" },
+    "_id": "c70cfa5c5ab75a16467bc95abaf5dc2a",
+    "name": "Đêm Ở Vịnh Lớn (Phần 2)",
+    "slug": "dem-o-vinh-lon-phan-2",
+    "origin_name": "Night In The Greater Bay (Season 2)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240409-1/1bbca19fbb6d0c7a960a21dace64c5ce.jpg",
+    "thumb_url": "upload/vod/20240409-1/3ca87e909f5479300633aae241c39678.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "87 phút/tập",
+    "episode_current": "Hoàn Tất (7/7)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-05-13T02:59:23.000Z" },
+    "_id": "e900ad3b2019268e3182123407fda545",
+    "name": "Căn Hộ 404",
+    "slug": "can-ho-404",
+    "origin_name": "Apartment 404",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240323-1/0ca86247d5b1d3e6460a3466dc5b70ca.jpg",
+    "thumb_url": "upload/vod/20240323-1/e82d749cd8f28e2a71d14e9e4be854ea.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "100 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "b28b3d249312674db6cc7533cbbc2936",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-05-17T03:50:40.000Z" },
+    "_id": "a734ad8883f2ce5db79f678149b8d6ed",
+    "name": "Vàng Hải Tặc Của Đảo Adak",
+    "slug": "vang-hai-tac-cua-dao-adak",
+    "origin_name": "Pirate Gold Of Adak Island",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240419-1/4fc70c9d6e843a36242ee60f5748bb21.jpg",
+    "thumb_url": "upload/vod/20240419-1/cc130134a881e1677b64c9aa3abf1a3d.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "32 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-05-17T03:53:01.000Z" },
+    "_id": "06d25652fd4d2f202bff043f7ae5c504",
+    "name": "Ban Nhạc Bên Bở Biển",
+    "slug": "ban-nhac-ben-bo-bien",
+    "origin_name": "The Seaside Band",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240419-1/73522f58e9bfb9d3b207b730806acda5.jpg",
+    "thumb_url": "upload/vod/20240419-1/c7d0d6475cfd9e5d0d4a896f8d284910.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "45 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "252e74b4c832ddb4233d7499f5ed122e",
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-05-17T03:58:52.000Z" },
+    "_id": "49b8ba8f9e5b7b260a306c25393a4181",
+    "name": "Iron Chef: Brazil",
+    "slug": "iron-chef-brazil",
+    "origin_name": "Iron Chef Brazil",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240419-1/86c8113d552b489526127abc5d1c6067.jpg",
+    "thumb_url": "upload/vod/20240419-1/06fed898ffc87bd885d981f6df329d26.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "51 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      {
+        "id": "42537f0fb56e31e20ab9c2305752087d",
+        "name": "Brazil",
+        "slug": "brazil"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-05-17T04:03:28.000Z" },
+    "_id": "96bcb45a6e30b2b3381934344b10a7ce",
+    "name": "Nhịp Điệu Hip Hop: Pháp",
+    "slug": "nhip-dieu-hip-hop-phap",
+    "origin_name": "Rhythm + Flow France",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240419-1/f96758e787bc64d59f3e76544e509343.jpg",
+    "thumb_url": "upload/vod/20240419-1/e9f498d96d6e542e8d9f51465504d8b4.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "40 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "252e74b4c832ddb4233d7499f5ed122e",
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      }
+    ],
+    "country": [
+      {
+        "id": "932bbaca386ee0436ad0159117eabae4",
+        "name": "Anh",
+        "slug": "anh"
+      },
+      {
+        "id": "92f688188aa938a03a61a786d6616dcb",
+        "name": "Pháp",
+        "slug": "phap"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-05-28T21:49:52.000Z" },
+    "_id": "c0ef730f5d58968ab89957d008952474",
+    "name": "Cuộc Sống Hạng Nhất",
+    "slug": "cuoc-song-hang-nhat",
+    "origin_name": "First Class",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240509-1/da1b622f7b5f6e9e79d040e05554760f.jpg",
+    "thumb_url": "upload/vod/20240509-1/01d6b6ff54464c926f3bac1ee309c1d3.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "43 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      {
+        "id": "8a40abac202ab3659bb98f71f05458d1",
+        "name": "Tây Ban Nha",
+        "slug": "tay-ban-nha"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-06-01T15:20:25.000Z" },
+    "_id": "2dd6f963d9acac8cff87b962bdce534c",
+    "name": "Sự Cám Dỗ Nóng Bỏng (Phần 4)",
+    "slug": "su-cam-do-nong-bong-phan-4",
+    "origin_name": "Too Hot To Handle (Season 4)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240509-1/a137915e079153eb7b821c2e7eeb8963.jpg",
+    "thumb_url": "upload/vod/20240509-1/e8eef40c53f5277dc29e738ebeefef8a.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "41 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-06-01T16:03:50.000Z" },
+    "_id": "4df14e7ba7f3122fa391492bdf8d59a7",
+    "name": "Kịch Bản Chuyện Tình (Phần 2)",
+    "slug": "kich-ban-chuyen-tinh-phan-2",
+    "origin_name": "The Future Diary (Season 2)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240517-1/97839ea917704464582081be2b06be5e.jpg",
+    "thumb_url": "upload/vod/20240517-1/0d0211d043add28eccbbc66320b6f286.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "35 phút/tập",
+    "episode_current": "Hoàn Tất (9/9)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "d4097fbffa8f7149a61281437171eb83",
+        "name": "Nhật Bản",
+        "slug": "nhat-ban"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-06-01T16:04:14.000Z" },
+    "_id": "aea93b39fbf6af64f5785c9514c1ef39",
+    "name": "Đảo Tình Yêu Hoa Kỳ (Phần 4)",
+    "slug": "dao-tinh-yeu-hoa-ky-phan-4",
+    "origin_name": "Love Island USA (Season 4)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240517-1/2f24f50ac24300d83d91d38477df197a.jpg",
+    "thumb_url": "upload/vod/20240517-1/e92f46cfb4cf4a21ae0b11c6be7121eb.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "60 phút/tập",
+    "episode_current": "Hoàn Tất (36/36)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-06-08T03:10:47.000Z" },
+    "_id": "63dfeaa1ff5c7551716fcc897e183a6b",
+    "name": "Tối Hậu Thư: Cưới Hay Nghỉ",
+    "slug": "toi-hau-thu-cuoi-hay-nghi",
+    "origin_name": "The Ultimatum: Marry Or Move On",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240517-1/7e162b6adeb932918cad095ef98032fa.jpg",
+    "thumb_url": "upload/vod/20240517-1/103f2c740bfbe87baed90fbb1454aaa7.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "57 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-06-09T23:27:14.000Z" },
+    "_id": "3c9501685cdd590f6212d7d7833bddf4",
+    "name": "Môi Giới Hoàng Hôn (Phần 5)",
+    "slug": "moi-gioi-hoang-hon-phan-5",
+    "origin_name": "Selling Sunset (Season 5)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240517-1/804c27d271420a550e64477555fe8f5d.jpg",
+    "thumb_url": "upload/vod/20240517-1/7f363b43a865674c59443cccbf77cb63.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "32 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-06-09T23:29:15.000Z" },
+    "_id": "acb95a44c0420a25fdf516ad0833bc24",
+    "name": "Circle: Hoa Kỳ (Phần 4)",
+    "slug": "circle-hoa-ky-phan-4",
+    "origin_name": "The Circle (Season 4)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240517-1/07d87407f214b929d77143e88276becc.jpg",
+    "thumb_url": "upload/vod/20240517-1/54c4785176b4819dca7dc5e52ba72510.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "63 phút/tập",
+    "episode_current": "Hoàn Tất (13/13)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-06-22T06:06:50.000Z" },
+    "_id": "8e8a773dbf9524b9c37c127d50ec4d26",
+    "name": "Hẹn Hò Cùng Người Thân",
+    "slug": "hen-ho-cung-nguoi-than",
+    "origin_name": "Dated And Related",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240520-1/cc4cbbf0ef5e6a46e86fa2d3c59dfab4.jpg",
+    "thumb_url": "upload/vod/20240520-1/970474668bcd38e64dcafd9f2297a734.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "50 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-06-22T12:07:11.000Z" },
+    "_id": "6a4445336e29a1682933b9a7a3aa06a8",
+    "name": "Đội Đặc Vụ Phá Án",
+    "slug": "doi-dac-vu-pha-an",
+    "origin_name": "Agents of Mystery",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240622-1/6f070ffd8e911939853479eaccfa3c63.jpg",
+    "thumb_url": "upload/vod/20240622-1/5eb11ae6ffaedf8447b6a7e090e74e14.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "42 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "7a035ac0b37f5854f0f6979260899c90",
+        "name": "Hình Sự",
+        "slug": "hinh-su"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-06-29T18:12:29.000Z" },
+    "_id": "44a59c1d9ff9b07e68ccf0903d4806d5",
+    "name": "Triệu Phú Nói Bịp",
+    "slug": "trieu-phu-noi-bip",
+    "origin_name": "Bullsh*t The Gameshow",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240521-1/a2934a331592600676b917d7e128e4fa.jpg",
+    "thumb_url": "upload/vod/20240521-1/38aba1bbe29546002476ade2bac6f17e.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "39 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-06-30T03:44:21.000Z" },
+    "_id": "e654e714cf5c2214d7f9a62a87776b6f",
+    "name": "In The SOOP: Friendship Journey",
+    "slug": "in-the-soop-friendship-journey",
+    "origin_name": "In The SOOP: Friendship Journey",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240603-1/d1ecdd1cb773ea70faeb9ce4ebebb340.jpg",
+    "thumb_url": "upload/vod/20240603-1/bc1ff9e46dd24155b37cd9ef7a471563.jpg",
+    "sub_docquyen": true,
+    "chieurap": false,
+    "time": "55 phút/tập",
+    "episode_current": "Hoàn Tất (4/4)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-07-09T01:20:44.000Z" },
+    "_id": "1021707194b6d060f75860a9fa6b73a2",
+    "name": "YES Or NO S2",
+    "slug": "yes-or-no-s2",
+    "origin_name": "YES Or NO S2",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240608-1/377416d3c5b703bd7c6abcc0446f8857.jpg",
+    "thumb_url": "upload/vod/20240608-1/493e311e038971e7567a2a5dd179ccdb.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "25 phút/tập",
+    "episode_current": "Hoàn Tất (12/12)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-07-09T01:21:13.000Z" },
+    "_id": "5a627e71c819a28db64a0bf7064f7b39",
+    "name": "Nhân Viên Mới",
+    "slug": "nhan-vien-moi",
+    "origin_name": "Nhân Viên Mới",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240608-1/04e09963c23c92d0796983428a4e2327.jpg",
+    "thumb_url": "upload/vod/20240608-1/dbeb06a8f9d138970f944502354a47a8.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "90 phút/tập",
+    "episode_current": "Hoàn Tất (25/25)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-07-09T01:21:30.000Z" },
+    "_id": "5f41caa07641b4b19aaf61278a061920",
+    "name": "Đi Nào, Cún Con!",
+    "slug": "di-nao-cun-con",
+    "origin_name": "Đi Nào, Cún Con!",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240608-1/859278fd1bcb5e63af34798889f59c26.jpg",
+    "thumb_url": "upload/vod/20240608-1/28f34147d5032a7ec1ffbdc79e86cfc8.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "40 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-07-09T01:21:50.000Z" },
+    "_id": "b66a88fda29fe547dfd323335fac0230",
+    "name": "Mùa Xuân Hoa Nở",
+    "slug": "mua-xuan-hoa-no",
+    "origin_name": "Mùa Xuân Hoa Nở",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240608-1/59a383343d9e534a3d21ce7e578d5faa.jpg",
+    "thumb_url": "upload/vod/20240608-1/fcab3c9785f463cfba5f1297b8e8ba9a.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "90 phút/tập",
+    "episode_current": "Hoàn Tất (7/7)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-07-09T01:22:09.000Z" },
+    "_id": "380c50225d67f81afaf12a795543782a",
+    "name": "Nhiệm Vụ Ngọt Ngào 2022",
+    "slug": "nhiem-vu-ngot-ngao-2022",
+    "origin_name": "Nhiệm Vụ Ngọt Ngào 2022",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240608-1/e689a586aaa10085b6024f664557b067.jpg",
+    "thumb_url": "upload/vod/20240608-1/b13bedf94ef5cacc9b433a827c251aaf.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "30 phút/tập",
+    "episode_current": "Hoàn Tất (12/12)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-07-09T01:22:50.000Z" },
+    "_id": "01697c65fd7b9f2459f6f48cbd9e390c",
+    "name": "Ngày Ngày Tiến Lên 2022",
+    "slug": "ngay-ngay-tien-len-2022",
+    "origin_name": "Ngày Ngày Tiến Lên 2022",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240608-1/c937ece737cd0a846950b0a8f9722a5b.jpg",
+    "thumb_url": "upload/vod/20240608-1/0104f66aba5a10fbd82fda8673c24ddd.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "90 phút/tập",
+    "episode_current": "Hoàn Tất (12/12)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-07-09T01:23:49.000Z" },
+    "_id": "533cb48e7569d96f3cd58b59c7f6df1e",
+    "name": "Fa Fa Store",
+    "slug": "fa-fa-store",
+    "origin_name": "Fa Fa Store",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240608-1/5985775b77d0392891e3eb9476ebbdcd.jpg",
+    "thumb_url": "upload/vod/20240608-1/3799330ded84392bd59312df5c4e2eb5.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "40 phút/tập",
+    "episode_current": "Hoàn Tất (12/12)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-07-09T01:24:07.000Z" },
+    "_id": "4360aad4b6737e02e0dfa46aad3f100c",
+    "name": "Nhà Hàng Trung Hoa S6",
+    "slug": "nha-hang-trung-hoa-s6",
+    "origin_name": "Nhà Hàng Trung Hoa S6",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240608-1/8556022d7659f8d097930d027747d00d.jpg",
+    "thumb_url": "upload/vod/20240608-1/46b2e226885140144db27289115638d1.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "90 phút/tập",
+    "episode_current": "Hoàn Tất (13/13)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-07-09T01:24:22.000Z" },
+    "_id": "b63da8791907b9600ec41330019f1459",
+    "name": "Gia Tộc Mục Dã",
+    "slug": "gia-toc-muc-da",
+    "origin_name": "Gia Tộc Mục Dã",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240608-1/d6a15d31b89d1e4fab2deb7bcf75740c.jpg",
+    "thumb_url": "upload/vod/20240608-1/32e225d4827e6e6baffdf750af9f73b8.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "90 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-07-09T01:24:38.000Z" },
+    "_id": "8512ca31b3df709713364fc8510ace73",
+    "name": "Trốn Thoát Khỏi Mật Thất S4",
+    "slug": "tron-thoat-khoi-mat-that-s4",
+    "origin_name": "Trốn Thoát Khỏi Mật Thất S4",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240608-1/7214e85bf6517c8d97784083adbdac12.jpg",
+    "thumb_url": "upload/vod/20240608-1/79894c787d9b67856e5720b74e57c9db.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "90 phút/tập",
+    "episode_current": "Hoàn Tất (16/16)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "9822be111d2ccc29c7172c78b8af8ff5",
+        "name": "Hành Động",
+        "slug": "hanh-dong"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-07-09T01:24:56.000Z" },
+    "_id": "6b479a29fe192bbdf1f628fb593a617e",
+    "name": "Chào Mừng Đến Với Nhà Nấm",
+    "slug": "chao-mung-den-voi-nha-nam",
+    "origin_name": "Chào Mừng Đến Với Nhà Nấm",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240608-1/17a6e447b7a0257a6fb9c99e49c799c1.jpg",
+    "thumb_url": "upload/vod/20240608-1/aca832d002de0484424bd2c4ca2044f8.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "90 phút/tập",
+    "episode_current": "Hoàn Tất (5/5)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-07-09T01:34:31.000Z" },
+    "_id": "c0829dc52beb665d3e2fd05e36f97f35",
+    "name": "Pháp Y - Nghìn Lẻ Một Đêm",
+    "slug": "phap-y-nghin-le-mot-dem",
+    "origin_name": "Pháp Y - Nghìn Lẻ Một Đêm",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240608-1/404a2b7fbfdd4316dd87c4e15d73e9b5.jpg",
+    "thumb_url": "upload/vod/20240608-1/40b3accbc6ac70120def542c48e46130.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "30 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      },
+      {
+        "id": "2fb53017b3be83cd754a08adab3e916c",
+        "name": "Bí Ẩn",
+        "slug": "bi-an"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-07-09T01:34:49.000Z" },
+    "_id": "64063a9bafbf19f37ef32a222116bcf1",
+    "name": "Đội Thám Tử Pháp Y",
+    "slug": "doi-tham-tu-phap-y",
+    "origin_name": "Đội Thám Tử Pháp Y",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240608-1/6474c934f6f39d65366d36ed06266c9e.jpg",
+    "thumb_url": "upload/vod/20240608-1/5e36ab5cbd4a3e62aa48383137e3e2e3.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "80 phút/tập",
+    "episode_current": "Hoàn Tất (9/9)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "2fb53017b3be83cd754a08adab3e916c",
+        "name": "Bí Ẩn",
+        "slug": "bi-an"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-07-09T01:38:04.000Z" },
+    "_id": "0d49ad6dce45e97bf25d1ce3d2b93041",
+    "name": "Tiếng Ca Còn Mãi",
+    "slug": "tieng-ca-con-mai",
+    "origin_name": "Tiếng Ca Còn Mãi",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240608-1/680118023f1080a96e41b0f6b9e84005.jpg",
+    "thumb_url": "upload/vod/20240608-1/bc430e886b85ed721cbefb7e3ec29f47.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "90 phút/tập",
+    "episode_current": "Hoàn Tất (14/14)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "252e74b4c832ddb4233d7499f5ed122e",
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-07-09T01:38:31.000Z" },
+    "_id": "fc0fcd65964759bcdd1a4fd491927f63",
+    "name": "Tín Hiệu Con Tim S5",
+    "slug": "tin-hieu-con-tim-s5",
+    "origin_name": "Heart Signal S5",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240608-1/5be6407b17c763405408041e85b149ef.jpg",
+    "thumb_url": "upload/vod/20240608-1/2d8f4849e8a77cc7b77fe00909ad7245.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "90 phút/tập",
+    "episode_current": "Hoàn Tất (33/33)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-07-09T02:07:51.000Z" },
+    "_id": "7d46fde6325be39f06a245530a9c6424",
+    "name": "Alessandro Cattelan: Một Câu Hỏi Đơn Giản",
+    "slug": "alessandro-cattelan-mot-cau-hoi-don-gian",
+    "origin_name": "Alessandro Cattelan: One Simple Question",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240608-1/12ff1742cf82c67129a84e1c36513aad.jpg",
+    "thumb_url": "upload/vod/20240608-1/deecc4c7e3a8ec986b42bcd50903fbe3.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "27 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2021,
+    "category": [
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      { "id": "a30878a7fdb6a94348fce16d362edb11", "name": "Ý", "slug": "y" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-07-12T23:53:03.000Z" },
+    "_id": "6944d4d43c2ec200647b67e58153a123",
+    "name": "Tình Yêu Trên Phổ Tự Kỷ (Phần 2)",
+    "slug": "tinh-yeu-tren-pho-tu-ky-phan-2",
+    "origin_name": "Love On The Spectrum (Season 2)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240615-1/12c4b64d78c7969a195874aa190b5d57.jpg",
+    "thumb_url": "upload/vod/20240615-1/708dc8c4451e915a8edab488d84ad416.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "44 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2021,
+    "category": [
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      { "id": "435a85571578e419ed511257881a1e75", "name": "Úc", "slug": "uc" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-07-30T11:19:13.000Z" },
+    "_id": "9c58cf4d9f49eb265e8b7f6f8c8c2434",
+    "name": "Câu Chuyện Ẩm Thực",
+    "slug": "cau-chuyen-am-thuc",
+    "origin_name": "Food Lore",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240729-1/e20454563b187295e071d506ca333288.jpg",
+    "thumb_url": "upload/vod/20240729-1/1feed0d6ba9f20f5344969b2af41c263.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "58 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2019,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      }
+    ],
+    "country": [
+      {
+        "id": "458e4cbc78201c1aec5fc53a31c59378",
+        "name": "Singapore",
+        "slug": "singapore"
+      },
+      {
+        "id": "77dab2f81a6c8c9136efba7ab2c4c0f2",
+        "name": "Philippines",
+        "slug": "philippines"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-08-31T19:06:40.000Z" },
+    "_id": "f46a7537f2a4d9cb860b5969ed5da1db",
+    "name": "Cuộc Đời Nhiệt Huyết",
+    "slug": "cuoc-doi-nhiet-huyet",
+    "origin_name": "Braving Life",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240615-1/52ac39d3484c650ec70cc8837524084b.jpg",
+    "thumb_url": "upload/vod/20240615-1/37ab2abbd329223dc7fa3d76e03a9b27.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "58 phút/tập",
+    "episode_current": "Hoàn Tất (19/19)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2021,
+    "category": [
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-09-01T18:07:31.000Z" },
+    "_id": "96c400a4b18a8c07772675977b43ce31",
+    "name": "Vở Kịch Vĩ Đại",
+    "slug": "vo-kich-vi-dai",
+    "origin_name": "The Great Show",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240628-1/758d287c50de0fe7de32d8f94bb84207.jpg",
+    "thumb_url": "upload/vod/20240628-1/ab3d1bbbc5909101b6c97e5186299d6c.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "65 phút/tập",
+    "episode_current": "Hoàn Tất (16/16)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2019,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-09-01T22:49:55.000Z" },
+    "_id": "6efbed44e61eea6d89186f42d1935c82",
+    "name": "Circle: Hoa Kỳ (Phần 3)",
+    "slug": "circle-hoa-ky-phan-3",
+    "origin_name": "The Circle (Season 3)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240709-1/26373aff7bed04fc4a9cc1947669c321.jpg",
+    "thumb_url": "upload/vod/20240709-1/8d6cb6dd0b19f6e44cdf04be6d97b281.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "63 phút/tập",
+    "episode_current": "Hoàn Tất (13/13)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2021,
+    "category": [
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-01T10:40:55.000Z" },
+    "_id": "bcedd7d347bfbcfdb4b8c383c3f374c7",
+    "name": "Gieo Gì Gặt Nấy",
+    "slug": "gieo-gi-gat-nay",
+    "origin_name": "You Reap What You Sow",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241001-1/94fdc48f732d311b9f617cec06c73a8d.jpg",
+    "thumb_url": "upload/vod/20241001-1/f62c810d9d4373657c065a96f69c31d5.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "90 phút/tập",
+    "episode_current": "Hoàn Tất (18/18)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      },
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-01T10:45:13.000Z" },
+    "_id": "dacbf079ffedc402d67968f7757064dd",
+    "name": "Mảnh Ghép Nữ Hoàng",
+    "slug": "manh-ghep-nu-hoang",
+    "origin_name": "Queendom Puzzle",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241001-1/631ae3f991e6e5248e48180914d259a5.jpg",
+    "thumb_url": "upload/vod/20241001-1/33b650c60ed23283c60b8818f1e99360.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "131 phút/tập",
+    "episode_current": "Hoàn Tất (20/20)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-01T14:48:32.000Z" },
+    "_id": "6593de02e6979db9ca7c1aa0d52d50e0",
+    "name": "Người Đồng Hành: Bạn Là Ai?",
+    "slug": "nguoi-dong-hanh-ban-la-ai",
+    "origin_name": "Tripmate: Who Are You?",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241001-1/7feeb24f435affbc0755bf5466de9847.jpg",
+    "thumb_url": "upload/vod/20241001-1/881377be1733bd1db695585568157052.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "52 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      },
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      }
+    ],
+    "country": [
+      {
+        "id": "b28b3d249312674db6cc7533cbbc2936",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-04T18:31:47.000Z" },
+    "_id": "4ed3afdfc92c378c6be80b20f50cc02c",
+    "name": "Hẹn Hò Thần Tốc",
+    "slug": "hen-ho-than-toc",
+    "origin_name": "The Skip Dating",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241004-1/741ca17f9a15bdefeefc50afeebe72a5.jpg",
+    "thumb_url": "upload/vod/20241004-1/af9faa87be49a629527657d9affece09.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "90 phút/tập",
+    "episode_current": "Hoàn Tất (22/22)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-05T07:23:47.000Z" },
+    "_id": "c139ffc26fbaf2d15418c8c53abcfed8",
+    "name": "Hương Vị Của Biển",
+    "slug": "huong-vi-cua-bien",
+    "origin_name": "Fresh Off The Sea",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241001-1/63e9e3d97d90646ba58ce6cdacf85590.jpg",
+    "thumb_url": "upload/vod/20241001-1/ee7aea17368e5a8b585ff549fd50a2a6.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "49 phút/tập",
+    "episode_current": "Hoàn Tất (24/24)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      },
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-08T08:24:53.000Z" },
+    "_id": "fbff791ef0770855e599ea6f87d41653",
+    "name": "Luke Nguyễn Trên Chuyến Tàu Bắc Nam",
+    "slug": "luke-nguyen-tren-chuyen-tau-bac-nam",
+    "origin_name": "Luke Nguyen\u0026#039;s Railway Vietnam",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241007-1/d259577584dc499c4e83dd616142ae66.jpg",
+    "thumb_url": "upload/vod/20241007-1/e2c058ce2e25d8dd496fd2da43ac8b68.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "26 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2019,
+    "category": [
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      { "id": "435a85571578e419ed511257881a1e75", "name": "Úc", "slug": "uc" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-10T06:01:03.000Z" },
+    "_id": "08c04a234c59ed654221cd34078a489f",
+    "name": "Ông Trùm RIIZE",
+    "slug": "ong-trum-riize",
+    "origin_name": "Boss Riize",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241010-1/d8740ffc72fe5462c1c20d2ff03ad797.jpg",
+    "thumb_url": "upload/vod/20241010-1/dc50118f5eaa7f4e1cd94f3897c32705.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "22 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "b28b3d249312674db6cc7533cbbc2936",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-10T11:07:51.000Z" },
+    "_id": "b780214f2ff6ab83e4d9d392922925ce",
+    "name": "World Dice Tour 2",
+    "slug": "world-dice-tour-2",
+    "origin_name": "World Dice Tour 2",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241010-1/39a91b972232b30645400c7792123b36.jpg",
+    "thumb_url": "upload/vod/20241010-1/3a38412194a50410ce32de8f71045c71.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "90 phút/tập",
+    "episode_current": "Hoàn Tất (14/14)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-11T00:09:45.000Z" },
+    "_id": "f543cf8c172c7e78a2420a2d7555c2f1",
+    "name": "Cuộc Hành Trình Tuyệt Vời (Phần 1)",
+    "slug": "cuoc-hanh-trinh-tuyet-voi-phan-1",
+    "origin_name": "The Grand Tour (Season 1)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241008-1/698c4f4286942994005819ef33c6b080.jpg",
+    "thumb_url": "upload/vod/20241008-1/868908d0607077a712aaf8b1d2f457fe.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "60 phút/tập",
+    "episode_current": "Hoàn Tất (13/13)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2016,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-11T00:09:57.000Z" },
+    "_id": "965b31e51d54c2d604af3f8008dc1db6",
+    "name": "Cuộc Hành Trình Tuyệt Vời (Phần 2)",
+    "slug": "cuoc-hanh-trinh-tuyet-voi-phan-2",
+    "origin_name": "The Grand Tour (Season 2)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241008-1/e506698cd0911f8fd646aa50a7d7d0b8.jpg",
+    "thumb_url": "upload/vod/20241008-1/afb4f6a6a8766508590c9055f3307a68.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "60 phút/tập",
+    "episode_current": "Hoàn Tất (11/11)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2017,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-11T00:10:11.000Z" },
+    "_id": "a607946dc79f1013740366224ff2b175",
+    "name": "Cuộc Hành Trình Tuyệt Vời (Phần 3)",
+    "slug": "cuoc-hanh-trinh-tuyet-voi-phan-3",
+    "origin_name": "The Grand Tour (Season 3)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241008-1/8406e310269b22bee7a54ab1542baf0b.jpg",
+    "thumb_url": "upload/vod/20241008-1/88d6417609f67d08d659302cc675072f.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "60 phút/tập",
+    "episode_current": "Hoàn Tất (14/14)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2019,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-11T00:10:21.000Z" },
+    "_id": "cfa3cd042a8f3e4fef1c323e4496c7d9",
+    "name": "Cuộc Hành Trình Tuyệt Vời (Phần 4)",
+    "slug": "cuoc-hanh-trinh-tuyet-voi-phan-4",
+    "origin_name": "The Grand Tour (Season 4)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241008-1/df0ffe5899b395d06b2e0ebbf9c88714.jpg",
+    "thumb_url": "upload/vod/20241008-1/247dd75a294281f610626f2d798128f7.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "60 phút/tập",
+    "episode_current": "Hoàn Tất (4/4)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2019,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-11T00:10:31.000Z" },
+    "_id": "a3301f2aa1d198cf589d59c5b76d2df4",
+    "name": "Cuộc Hành Trình Tuyệt Vời (Phần 5)",
+    "slug": "cuoc-hanh-trinh-tuyet-voi-phan-5",
+    "origin_name": "The Grand Tour (Season 5)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241008-1/2277716032e3d64de41d766f111abd20.jpg",
+    "thumb_url": "upload/vod/20241008-1/2c92098bbb3a058e872633949ef37f61.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "60 phút/tập",
+    "episode_current": "Hoàn Tất (3/3)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-11T16:41:51.000Z" },
+    "_id": "47aad7688350fbfd9a9109e8ee88f0f4",
+    "name": "Chuyện Tình Của Anh Chị Em Tôi",
+    "slug": "chuyen-tinh-cua-anh-chi-em-toi",
+    "origin_name": "My Sibling\u0026#039;s Romance",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241011-1/b33e9924fae8cdfa4b1a59a8c7d13791.jpg",
+    "thumb_url": "upload/vod/20241011-1/d24ac9d254c945c78c2ce5384c724205.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "180 phút/tập",
+    "episode_current": "Hoàn Tất (16/16)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-11T17:27:44.000Z" },
+    "_id": "8f34e6c58e3875b532232d5c0165afa2",
+    "name": "Đại Chiến Tầng Lớp Ẩm Thực",
+    "slug": "dai-chien-tang-lop-am-thuc",
+    "origin_name": "Culinary Class Wars",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240922-1/03ebeeae6a5f668c890539c59d064157.jpg",
+    "thumb_url": "upload/vod/20240922-1/5d7bf572144c7061d2e71962801c3da9.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "63 phút/tập",
+    "episode_current": "Hoàn Tất (12/12)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-15T06:21:24.000Z" },
+    "_id": "247e7efbde76a5bdf2dadbbacce18e7f",
+    "name": "EXO\u0026#039;s Travel The World On A Ladder In Geoje \u0026 Tongyeong",
+    "slug": "exos-travel-the-world-on-a-ladder-in-geoje-tongyeong",
+    "origin_name": "EXO\u0026#039;s Travel The World On A Ladder In Geoje \u0026 Tongyeong",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241015-1/5154d9f1cf2a63eb85f7c40b3fa46249.jpg",
+    "thumb_url": "upload/vod/20241015-1/dbb727888419c7001029d1bcff026657.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "21 phút/tập",
+    "episode_current": "Hoàn Tất (12/12)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-22T12:32:44.000Z" },
+    "_id": "94f311c1d065e993d81c1cdc9f658bb1",
+    "name": "Hành Trình Ẩm Thực Của Phil (Phần 1)",
+    "slug": "hanh-trinh-am-thuc-cua-phil-phan-1",
+    "origin_name": "Somebody Feed Phil (Season 1)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241021-1/5e084a68841fadc30ca1d6a8b0e64c41.jpg",
+    "thumb_url": "upload/vod/20241021-1/c2b97e912cf44f9e613c6bea2f4a4939.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "55 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2018,
+    "category": [
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-22T12:32:56.000Z" },
+    "_id": "cfc589f72fd5f46aa97a9b69cbad002f",
+    "name": "Hành Trình Ẩm Thực Của Phil (Phần 2)",
+    "slug": "hanh-trinh-am-thuc-cua-phil-phan-2",
+    "origin_name": "Somebody Feed Phil (Season 2)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241021-1/d8bb6b6b9a979416f624f92f8eb9f4ba.jpg",
+    "thumb_url": "upload/vod/20241021-1/fb2b6ab651f39fadadb33048d27db154.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "55 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2018,
+    "category": [
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-22T12:33:09.000Z" },
+    "_id": "0ef8fec8ddd3c6726e5325b41e61d608",
+    "name": "Hành Trình Ẩm Thực Của Phil (Phần 3)",
+    "slug": "hanh-trinh-am-thuc-cua-phil-phan-3",
+    "origin_name": "Somebody Feed Phil (Season 3)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241021-1/5192115e7d3302435a02044aa9909a71.jpg",
+    "thumb_url": "upload/vod/20241021-1/c509830519ded3925cab4968ecd57055.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "50 phút/tập",
+    "episode_current": "Hoàn Tất (5/5)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2020,
+    "category": [
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      },
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-22T12:33:21.000Z" },
+    "_id": "4238fc46fe869de66700ec14d6738248",
+    "name": "Hành Trình Ẩm Thực Của Phil (Phần 4)",
+    "slug": "hanh-trinh-am-thuc-cua-phil-phan-4",
+    "origin_name": "Somebody Feed Phil (Season 4)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241021-1/d2e96d89d75f533d8f7eddea441b8b36.jpg",
+    "thumb_url": "upload/vod/20241021-1/52e959be142ea20ba45e466472b96773.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "50 phút/tập",
+    "episode_current": "Hoàn Tất (5/5)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2020,
+    "category": [
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      },
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-22T12:33:32.000Z" },
+    "_id": "3391f7714552ccfd36c887e27dee4842",
+    "name": "Hành Trình Ẩm Thực Của Phil (Phần 5)",
+    "slug": "hanh-trinh-am-thuc-cua-phil-phan-5",
+    "origin_name": "Somebody Feed Phil (Season 5)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241021-1/1bbb95d5a2f0ba50f773a71cb0540e76.jpg",
+    "thumb_url": "upload/vod/20241021-1/9b407f2933828e4d54f9ffd6a4151c1c.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "50 phút/tập",
+    "episode_current": "Hoàn Tất (5/5)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      },
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-10-22T12:33:49.000Z" },
+    "_id": "b53f8d01835616293e994afe0ea01bdf",
+    "name": "Hành Trình Ẩm Thực Của Phil (Phần 7)",
+    "slug": "hanh-trinh-am-thuc-cua-phil-phan-7",
+    "origin_name": "Somebody Feed Phil (Season 7)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241021-1/d7a5b36c062bb5cf17313f0d7bdc9465.jpg",
+    "thumb_url": "upload/vod/20241021-1/0df5b67e99bec68b849bbd7f4caba43e.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "55 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-11-02T15:03:42.000Z" },
+    "_id": "f4e6bccbee6057b26de5f252fa76f847",
+    "name": "Tim Robinson: Tôi Nghĩ Bạn Nên Ra Về (Phần 1)",
+    "slug": "tim-robinson-toi-nghi-ban-nen-ra-ve-phan-1",
+    "origin_name": "I Think You Should Leave With Tim Robinson (Season 1)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241102-1/fe7f70bc19d16d4079652d4a8e5d2c8f.jpg",
+    "thumb_url": "upload/vod/20241102-1/46146659ce0e723d23f7f16bfc030e35.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "17 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2019,
+    "category": [
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-11-03T11:14:29.000Z" },
+    "_id": "31f0a067ca77d80b3704aee9141bc2ea",
+    "name": "Tim Robinson: Tôi Nghĩ Bạn Nên Ra Về (Phần 2)",
+    "slug": "tim-robinson-toi-nghi-ban-nen-ra-ve-phan-2",
+    "origin_name": "I Think You Should Leave With Tim Robinson (Season 2)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241102-1/0809dbb9eb4d47d482e1f2f2e6a089c2.jpg",
+    "thumb_url": "upload/vod/20241102-1/5f7cecacf768b6af4656793dc9d97707.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "17 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2021,
+    "category": [
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-11-09T17:44:42.000Z" },
+    "_id": "874e32f9341fbd8141c45090f858e30b",
+    "name": "Đường Tới Ngôi Vương (Mùa 2)",
+    "slug": "duong-toi-ngoi-vuong-mua-2",
+    "origin_name": "Road To Kingdom: Ace Of Ace",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240928-1/c3c486b2cb8b588df34426b0e1fdc1b5.jpg",
+    "thumb_url": "upload/vod/20240928-1/9bd3135f535b4e577fcb0a7d4ca5342b.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "120 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      }
+    ],
+    "country": [
+      {
+        "id": "b28b3d249312674db6cc7533cbbc2936",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-11-27T11:56:35.000Z" },
+    "_id": "e28819b5d88ce9a97d9491932c3a5800",
+    "name": "Cuộc Sống Nông Thôn Của Gen Z",
+    "slug": "cuoc-song-nong-thon-cua-gen-z",
+    "origin_name": "Country Life Of Gen-Z",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240918-1/939f52c0f3afc7d43baab575be640d1a.jpg",
+    "thumb_url": "upload/vod/20240918-1/b0a9aa2053af38e3d71571f818829d4a.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "66 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      },
+      {
+        "id": "66c78b23908113d478d8d85390a244b4",
+        "name": "Phiêu Lưu",
+        "slug": "phieu-luu"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-12-03T06:02:58.000Z" },
+    "_id": "46bc56d0ff6bad9dca3578cbbe5ed486",
+    "name": "Yêu Là Mù Quáng: Argentina",
+    "slug": "yeu-la-mu-quang-argentina",
+    "origin_name": "Love Is Blind: Argentina",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241129-1/ac4fdacb4a9b218dea66a0ffe18143a3.jpg",
+    "thumb_url": "upload/vod/20241129-1/d743562d560c52830d7c5b1d50dc68a2.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "62 phút/tập",
+    "episode_current": "Hoàn Tất (11/11)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      {
+        "id": "3536be57ce0713954e454ae6c53ec023",
+        "name": "Argentina",
+        "slug": "argentina"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-12-04T06:50:55.000Z" },
+    "_id": "23275f3844585a6a9bbb627837278e13",
+    "name": "Môi Giới Hoàng Hôn (Phần 1)",
+    "slug": "moi-gioi-hoang-hon-phan-1",
+    "origin_name": "Selling Sunset (Season 1)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241203-1/37870dc9f190014ab081c089e1068b4d.jpg",
+    "thumb_url": "upload/vod/20241203-1/a988af06780a7bc7c3c0a56b3dd93afc.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "32 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2019,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-12-04T06:51:06.000Z" },
+    "_id": "4eb9407d63d543de5afcd082d88280f4",
+    "name": "Môi Giới Hoàng Hôn (Phần 2)",
+    "slug": "moi-gioi-hoang-hon-phan-2",
+    "origin_name": "Selling Sunset (Season 2)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241203-1/9801b962d51c27cfa722c70a4c7ee247.jpg",
+    "thumb_url": "upload/vod/20241203-1/7e486de46dd4b09d4a31e079f96e2931.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "32 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2020,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-12-04T06:51:15.000Z" },
+    "_id": "026947ba375f344b921f7c825ec784c1",
+    "name": "Môi Giới Hoàng Hôn (Phần 3)",
+    "slug": "moi-gioi-hoang-hon-phan-3",
+    "origin_name": "Selling Sunset (Season 3)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241203-1/e70550796be8c96868cf17afa10c8bf8.jpg",
+    "thumb_url": "upload/vod/20241203-1/4e426687feb560938809b4fdca871286.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "32 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2020,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-12-04T06:51:26.000Z" },
+    "_id": "a5311ea250c069821a160b1badc69ab8",
+    "name": "Môi Giới Hoàng Hôn (Phần 4)",
+    "slug": "moi-gioi-hoang-hon-phan-4",
+    "origin_name": "Selling Sunset (Season 4)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241203-1/5fbc7e3169e0f5663dd59cb70fe143fb.jpg",
+    "thumb_url": "upload/vod/20241203-1/a39e8ac1182a7fd05abe05ad88584271.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "32 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2021,
+    "category": [
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-12-04T06:53:50.000Z" },
+    "_id": "0f3cb4cc8c7d6da35362e70ba50cf923",
+    "name": "Đầu bếp (Phần 1)",
+    "slug": "dau-bep-phan-1",
+    "origin_name": "The Chef Show (Season 1)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241204-1/b62cfa861b9f355658d98aec1a309044.jpg",
+    "thumb_url": "upload/vod/20241204-1/ac31944cbd96ce46d424cb804fd81f6d.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "29 phút/tập",
+    "episode_current": "Hoàn Tất (8/8)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2019,
+    "category": [
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-12-04T06:54:00.000Z" },
+    "_id": "d79bc606792288b59c64959c6bcbf5d5",
+    "name": "Đầu bếp (Phần 2)",
+    "slug": "dau-bep-phan-2",
+    "origin_name": "The Chef Show (Season 2)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241204-1/7459261f0dd9b7b8b263ff8ebc194f25.jpg",
+    "thumb_url": "upload/vod/20241204-1/31e44b7b71f9fe6eb42509e6488cb530.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "29 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2019,
+    "category": [
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-12-04T06:54:11.000Z" },
+    "_id": "bf6a723c914499b98f1b1e8898719b05",
+    "name": "Đầu bếp (Phần 3)",
+    "slug": "dau-bep-phan-3",
+    "origin_name": "The Chef Show (Season 3)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241204-1/f23b5df478f886a42935035201e21928.jpg",
+    "thumb_url": "upload/vod/20241204-1/f0f20a7949fe354c27d37618ed3a23e7.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "29 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2020,
+    "category": [
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-12-04T06:54:25.000Z" },
+    "_id": "7544c259023b01aeb81bb5e2a56a1fef",
+    "name": "Đầu bếp (Phần 4)",
+    "slug": "dau-bep-phan-4",
+    "origin_name": "The Chef Show (Season 4)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241204-1/b00f0b8ff65d58d2cc590a7431c05414.jpg",
+    "thumb_url": "upload/vod/20241204-1/3880e6c9b7acf2b4207e510aff1593f0.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "29 phút/tập",
+    "episode_current": "Hoàn Tất (5/5)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2020,
+    "category": [
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-12-14T20:04:56.000Z" },
+    "_id": "c7cca85fb808ff22d4196d92a56b94a0",
+    "name": "Chiến Binh Trên Vũ Đài",
+    "slug": "chien-binh-tren-vu-dai",
+    "origin_name": "Stage Fighter",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241011-1/fb462da773c1fc99e681a51c3efe8073.jpg",
+    "thumb_url": "upload/vod/20241011-1/0910c889eb445f9fe970bd6f5ebbd990.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "120 phút/tập",
+    "episode_current": "Hoàn Tất (19/19)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-12-23T20:29:29.000Z" },
+    "_id": "c38788aaa2b9bed83ca8226d9c4cc768",
+    "name": "Punghyanggo",
+    "slug": "punghyanggo",
+    "origin_name": "Punghyanggo",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241223-1/35e3221008dc04ca7ff0a04a97a68d8d.jpg",
+    "thumb_url": "upload/vod/20241223-1/cd0bad75e4bd427342b42708bf9a13bd.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "110 phút/tập",
+    "episode_current": "Tập 4",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      },
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "b28b3d249312674db6cc7533cbbc2936",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-12-25T23:04:23.000Z" },
+    "_id": "f3185c7a754e703e273f163cff3897e5",
+    "name": "Tòa Án Quan Hệ Cha Con Của Lauren Lake (Phần 1)",
+    "slug": "toa-an-quan-he-cha-con-cua-lauren-lake-phan-1",
+    "origin_name": "Lauren Lake\u0026#039;s Paternity Court (Season 1)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241226-1/fd7bfcc756929b616fab9f77a7a84356.jpg",
+    "thumb_url": "upload/vod/20241226-1/d40b9fe6d76733b77584155c2d976e89.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "22 phút/tập",
+    "episode_current": "Hoàn Tất (50/50)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2013,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-12-25T23:06:01.000Z" },
+    "_id": "5c9dc137c4e9543d7e4001d7bdef7413",
+    "name": "Tòa Án Quan Hệ Cha Con Của Lauren Lake (Phần 2)",
+    "slug": "toa-an-quan-he-cha-con-cua-lauren-lake-phan-2",
+    "origin_name": "Lauren Lake\u0026#039;s Paternity Court (Season 2)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241226-1/b711905ec2202fcc202b04e29bb0c40f.jpg",
+    "thumb_url": "upload/vod/20241226-1/505c8309850dbe9f3b509939c115cd5f.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "22 phút/tập",
+    "episode_current": "Hoàn Tất (105/105)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2014,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-12-25T23:08:46.000Z" },
+    "_id": "1a3bdfab1712e521f60a127020afac41",
+    "name": "Tòa Án Quan Hệ Cha Con Của Lauren Lake (Phần 3)",
+    "slug": "toa-an-quan-he-cha-con-cua-lauren-lake-phan-3",
+    "origin_name": "Lauren Lake\u0026#039;s Paternity Court (Season 3)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241226-1/cd917e112672086da420bed86a521b72.jpg",
+    "thumb_url": "upload/vod/20241226-1/76fc387b0b04cdea62dd528f396a2bac.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "22 phút/tập",
+    "episode_current": "Hoàn Tất (111/111)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2015,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-12-25T23:09:02.000Z" },
+    "_id": "a78f38f1d46f350ba1b7685b57d15be3",
+    "name": "Tòa Án Quan Hệ Cha Con Của Lauren Lake (Phần 4)",
+    "slug": "toa-an-quan-he-cha-con-cua-lauren-lake-phan-4",
+    "origin_name": "Lauren Lake\u0026#039;s Paternity Court (Season 4)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241226-1/7fa16e5fa40ce8d84a3f2b635c3d3c38.jpg",
+    "thumb_url": "upload/vod/20241226-1/5435774e9ac3ba1f6ca542704a0b2ba4.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "22 phút/tập",
+    "episode_current": "Hoàn Tất (109/109)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2016,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-12-25T23:11:10.000Z" },
+    "_id": "0c66ecade1fe6cf8e9c92080459986ff",
+    "name": "Tòa Án Quan Hệ Cha Con Của Lauren Lake (Phần 5)",
+    "slug": "toa-an-quan-he-cha-con-cua-lauren-lake-phan-5",
+    "origin_name": "Lauren Lake\u0026#039;s Paternity Court (Season 5)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241226-1/0039f563e07e794f59c9b0f985070090.jpg",
+    "thumb_url": "upload/vod/20241226-1/cf0a74ace0cc6cd0b32cfd386250dcb8.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "22 phút/tập",
+    "episode_current": "Hoàn Tất (115/115)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2017,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-12-25T23:12:35.000Z" },
+    "_id": "98050d16424bad1b20a11b80951999c3",
+    "name": "Tòa Án Quan Hệ Cha Con Của Lauren Lake (Phần 6)",
+    "slug": "toa-an-quan-he-cha-con-cua-lauren-lake-phan-6",
+    "origin_name": "Lauren Lake\u0026#039;s Paternity Court (Season 6)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241226-1/8f4eed92107c5c0fc3db3d813de81e15.jpg",
+    "thumb_url": "upload/vod/20241226-1/6075f355eb93ee8e91c87669e57e293a.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "22 phút/tập",
+    "episode_current": "Hoàn Tất (47/47)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2018,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2024-12-25T23:14:01.000Z" },
+    "_id": "e31187e638aaf1bb37a436452de8230e",
+    "name": "Tòa Án Quan Hệ Cha Con Của Lauren Lake (Phần 7)",
+    "slug": "toa-an-quan-he-cha-con-cua-lauren-lake-phan-7",
+    "origin_name": "Lauren Lake\u0026#039;s Paternity Court (Season 7)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241226-1/6ebb1f19aca6763a9f02eaecb5a4ef7f.jpg",
+    "thumb_url": "upload/vod/20241226-1/c1dfe9153ac16f72c41acbced1495ae2.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "22 phút/tập",
+    "episode_current": "Hoàn Tất (53/53)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2019,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-01-22T12:45:56.000Z" },
+    "_id": "d0bed3a3e689d20f4f3fd0b5eecd2d4b",
+    "name": "Người Ảnh Hưởng",
+    "slug": "nguoi-anh-huong",
+    "origin_name": "The Influencer",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250122-1/77bf5f9f2941f9be5fb611b522f63188.jpg",
+    "thumb_url": "upload/vod/20250122-1/31f05c5fda6f4ebd310040c3e87e4df1.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "81 phút/tập",
+    "episode_current": "Hoàn Tất (7/7)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-01-22T12:48:15.000Z" },
+    "_id": "20506326141455bed7586439ef2537c4",
+    "name": "Giới Siêu Giàu Ở Hàn Quốc",
+    "slug": "gioi-sieu-giau-o-han-quoc-",
+    "origin_name": "Super Rich In Korea",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250122-1/4fb9beca1b84305364a044e3559b5290.jpg",
+    "thumb_url": "upload/vod/20250122-1/3156fe078047f3aa98e8a09578070ece.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "30 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-02-08T20:34:03.000Z" },
+    "_id": "17397f76c707cd300612cac5898cbc36",
+    "name": "Gieo Gì Gặt Nấy: Ngoại Truyện",
+    "slug": "gieo-gi-gat-nay-ngoai-truyen",
+    "origin_name": "GBRB Spin Off: Cafeteria Operation",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250119-1/c5a1f8cc386cf2298949d84a9ad0c7ce.jpg",
+    "thumb_url": "upload/vod/20250119-1/eeb859e44e2a5dbf8f8943cc4dac3163.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "44 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2025,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      }
+    ],
+    "country": [
+      {
+        "id": "b28b3d249312674db6cc7533cbbc2936",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-02-08T20:38:45.000Z" },
+    "_id": "991c016c602257061e08f52d57a8606c",
+    "name": "Lạc Lối Ở Phần Lan",
+    "slug": "lac-loi-o-phan-lan",
+    "origin_name": "Rented In Finland",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241209-1/94493e358c9378062d7532e49becdb3d.jpg",
+    "thumb_url": "upload/vod/20241209-1/38ab15572362f16b9d8da7fb890d75a4.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "70 phút/tập",
+    "episode_current": "Hoàn Tất (20/20)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "1645fa23fa33651cef84428b0dcc2130",
+        "name": "Tài Liệu",
+        "slug": "tai-lieu"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-02-10T19:51:24.000Z" },
+    "_id": "4c63a38de84c8eb2ad7584bbb274af2d",
+    "name": "Sáng Tạo Doanh Châu Á (Phần 1)",
+    "slug": "sang-tao-doanh-chau-a-phan-1",
+    "origin_name": "Chuang Asia (Season 1)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250210-1/b0c6ebb2419137c20552e299862f8b95.jpg",
+    "thumb_url": "upload/vod/20250210-1/df1674bd8e62c951edd85f4050d45697.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "151 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "cefbf1640a17bad1e13c2f6f2a811a2d",
+        "name": "Thái Lan",
+        "slug": "thai-lan"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-02-13T16:58:50.000Z" },
+    "_id": "50177f8a9ab8866cb77c77ae1e47c5fa",
+    "name": "Trò Chơi Quái Vật",
+    "slug": "tro-choi-quai-vat",
+    "origin_name": "Beast Games",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241220-1/e9c519a694573b1596b962e36d902c64.jpg",
+    "thumb_url": "upload/vod/20241220-1/f628cd8015b95b3e91144bca8db2e095.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "50 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "quality": "FHD",
+    "lang": "Vietsub + Lồng Tiếng",
+    "year": 2024,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-02-19T12:07:21.000Z" },
+    "_id": "ffad672a27161fbee2737a2a1b4ac28f",
+    "name": "Tình Yêu Ngoại Tuyến",
+    "slug": "tinh-yeu-ngoai-tuyen",
+    "origin_name": "Offline Love",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250219-1/950abca67ddc2e651544518ac1e66746.jpg",
+    "thumb_url": "upload/vod/20250219-1/90be9450f85f7ee1f140a8d3cfd539b5.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "47 phút/tập",
+    "episode_current": "Hoàn Tất (10/10)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2025,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      {
+        "id": "d4097fbffa8f7149a61281437171eb83",
+        "name": "Nhật Bản",
+        "slug": "nhat-ban"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-02-27T09:25:25.000Z" },
+    "_id": "c618f687f58d6f25fc50970accaa8fe6",
+    "name": "Tình Yêu Bị Chiếm Hữu (Phần 1)",
+    "slug": "tinh-yeu-bi-chiem-huu-phan-1",
+    "origin_name": "Possessed Love (Season 1)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250227-1/63dfb2601d18d259cf01269c602654de.jpg",
+    "thumb_url": "upload/vod/20250227-1/c948e0bc4236e15122a570e734a7b33f.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "108 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-03-01T10:06:08.000Z" },
+    "_id": "b63b53cfaa9a5da9df499fd91469192d",
+    "name": "HMLYCP",
+    "slug": "hmlycp",
+    "origin_name": "HyeMiLeeYeChaePa",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250301-1/838f98a385203329fed18db3933fc14d.jpg",
+    "thumb_url": "upload/vod/20250301-1/874c5b61dccf70a14963f5f8ca77fba4.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "85 phút/tập",
+    "episode_current": "Hoàn Tất (12/12)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-03-01T10:32:18.000Z" },
+    "_id": "16bcb1458994f17736ac66080008294d",
+    "name": "Yêu Là Mù Quáng (Phần 1)",
+    "slug": "yeu-la-mu-quang-phan-1",
+    "origin_name": "Love Is Blind (Season 1)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250301-1/44c192463432a0c3f26109fe65b8a4ca.jpg",
+    "thumb_url": "upload/vod/20250301-1/50debfac610be85ea1bc04360e918d38.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "57 phút/tập",
+    "episode_current": "Hoàn Tất (14/14)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2020,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2025-03-01T10:33:02.000Z" },
+    "_id": "e419ad025df62fbc3cc87331f5bf56cd",
+    "name": "Yêu Là Mù Quáng (Phần 2)",
+    "slug": "yeu-la-mu-quang-phan-2",
+    "origin_name": "Love Is Blind (Season 2)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240324-1/c43e636faf9351790070ebee93b7a881.jpg",
+    "thumb_url": "upload/vod/20240324-1/ff5f10775d4759da2d5ee395c14bfab4.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "58 phút/tập",
+    "episode_current": "Hoàn Tất (14/14)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2025-03-01T10:33:42.000Z" },
+    "_id": "54c68c4d1dc2b4c2bbb2566f476d3157",
+    "name": "Yêu Là Mù Quáng (Phần 3)",
+    "slug": "yeu-la-mu-quang-phan-3",
+    "origin_name": "Love Is Blind (Season 3)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20240509-1/86687b85060c8615c34d5bfe4d3bedba.jpg",
+    "thumb_url": "upload/vod/20240509-1/29a857e3e446ca6c5f0075512c98a788.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "58 phút/tập",
+    "episode_current": "Hoàn Tất (15/15)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2022,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2025-03-01T10:34:20.000Z" },
+    "_id": "f56de5ef149cf0aedcc8f4797031e229",
+    "name": "Yêu Là Mù Quáng (Phần 4)",
+    "slug": "yeu-la-mu-quang-phan-4",
+    "origin_name": "Love Is Blind (Season 4)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20231219-1/715b78fc73df47c9265ccce4f34bba09.jpg",
+    "thumb_url": "upload/vod/20231219-1/af170e4d30e71f99340ea5bac9b6957b.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "58 phút/tập",
+    "episode_current": "Hoàn Tất (16/16)",
+    "quality": "HD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-03-01T10:40:05.000Z" },
+    "_id": "4b7591879ca3f8310901b0d4ea1980f6",
+    "name": "Yêu Là Mù Quáng (Phần 5)",
+    "slug": "yeu-la-mu-quang-phan-5",
+    "origin_name": "Love Is Blind (Season 5)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250301-1/543574b2b407bc7b7bd2855b4c335220.jpg",
+    "thumb_url": "upload/vod/20250301-1/0aadaa8cc0335ccda5570fbe445d4bd7.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "58 phút/tập",
+    "episode_current": "Hoàn Tất (11/11)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2023,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2025-03-01T10:40:17.000Z" },
+    "_id": "13dd806f1e82bd0fa111d92a1afeb454",
+    "name": "Yêu Là Mù Quáng (Phần 6)",
+    "slug": "yeu-la-mu-quang-phan-6",
+    "origin_name": "Love Is Blind (Season 6)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250301-1/a3f3941221f33e2a6886f32d3a993887.jpg",
+    "thumb_url": "upload/vod/20250301-1/3d3ca8ba229cda363100be4b28b0ce03.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "58 phút/tập",
+    "episode_current": "Hoàn Tất (13/13)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2025-03-01T10:41:15.000Z" },
+    "_id": "33c192a4c5e4534a10a0f8176afd7d1d",
+    "name": "Yêu Là Mù Quáng (Phần 7)",
+    "slug": "yeu-la-mu-quang-phan-7",
+    "origin_name": "Love Is Blind (Season 7)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250301-1/bda96186e9281967976726232c97e7ba.jpg",
+    "thumb_url": "upload/vod/20250301-1/34f7d1c877904b812628990beb74f4c2.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "58 phút/tập",
+    "episode_current": "Hoàn Tất (13/13)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2024,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      { "id": "932bbaca386ee0436ad0159117eabae4", "name": "Anh", "slug": "anh" }
+    ]
+  },
+  {
+    "modified": { "time": "2025-03-05T15:50:45.000Z" },
+    "_id": "89db6efaa2613d91fc745b3d50d2bf1a",
+    "name": "Ngũ Phúc Lâm Môn : Bạn Bè Cùng Hưởng",
+    "slug": "ngu-phuc-lam-mon-ban-be-cung-huong",
+    "origin_name": "Perfect Match : Friendship Sharing",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250305-1/8d2222c65776ea24782fb00e45395f88.jpg",
+    "thumb_url": "upload/vod/20250305-1/2ed0088a798bf8ecff546e1e26b41b90.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "32 phút/tập",
+    "episode_current": "Hoàn Tất (6/6)",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2025,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "3e075636c731fe0f889c69e0bf82c083",
+        "name": "Trung Quốc",
+        "slug": "trung-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-03-09T15:44:37.000Z" },
+    "_id": "5e0096402339448552f8dff7015d901d",
+    "name": "Cặp Đôi Định Mệnh",
+    "slug": "cap-doi-dinh-menh",
+    "origin_name": "Heart Pairing",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250309-1/28b927427c3fe7abb6858fd211268aea.jpg",
+    "thumb_url": "upload/vod/20250309-1/9d2af6abc70a1d3115c7c6cb844097bf.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "100 phút/tập",
+    "episode_current": "Tập 1",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2025,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-03-10T14:17:37.000Z" },
+    "_id": "b8a8fe8d922482fd4dfedf226811c995",
+    "name": "Yêu Là Mù Quáng (Phần 8)",
+    "slug": "yeu-la-mu-quang-phan-8",
+    "origin_name": "Love Is Blind (Season 8)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250301-1/37772f3792b9fb5c7b07c944d4b513ac.jpg",
+    "thumb_url": "upload/vod/20250301-1/ab04b47fca737fad41112137507677b6.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "58 phút/tập",
+    "episode_current": "Tập 14",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2025,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      }
+    ],
+    "country": [
+      {
+        "id": "74d9fa92f4dea9ecea8fc2233dc7921a",
+        "name": "Âu Mỹ",
+        "slug": "au-my"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-03-12T21:52:13.000Z" },
+    "_id": "680c256fb6e2c27e27a9d268e8379690",
+    "name": "Nhật Ký Của Mẹ",
+    "slug": "nhat-ky-cua-me",
+    "origin_name": "My Little Old Boy",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250309-1/ca480b54cd2ca6060c6b1e5b7f3abceb.jpg",
+    "thumb_url": "upload/vod/20250309-1/68a1b2439bec4f1f79820d4ddd6a1e8b.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "100 phút/tập",
+    "episode_current": "Tập 433",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2016,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-03-15T01:18:42.000Z" },
+    "_id": "d006bce17dc2f016b118efb55be3e121",
+    "name": "Giác Quan Thứ Sáu: Vòng Quanh Thành Phố",
+    "slug": "giac-quan-thu-sau-vong-quanh-thanh-pho",
+    "origin_name": "Sixth Sense: City Tour",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250214-1/e8051e649692c83dc399d2e496353c6e.jpg",
+    "thumb_url": "upload/vod/20250214-1/1de44f5904147d51d50bffa7b55ce944.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "90 phút/tập",
+    "episode_current": "Tập 10",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2025,
+    "category": [
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "b28b3d249312674db6cc7533cbbc2936",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-03-15T23:38:46.000Z" },
+    "_id": "2bf00090c06d6beeb75c3c77420d2746",
+    "name": "Ẩm Thực Miền Quê Cùng Edward Lee",
+    "slug": "am-thuc-mien-que-cung-edward-lee",
+    "origin_name": "Edward Lee\u0026#039;s Country Cook",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250216-1/004486e34f3be6052cd05096c615f438.jpg",
+    "thumb_url": "upload/vod/20250216-1/f649b08727106f2e3ca32079b9bbe3cc.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "100 phút/tập",
+    "episode_current": "Tập 10",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2025,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-03-16T22:29:31.000Z" },
+    "_id": "b9adc4df9a0d423c165f63f40eb3a0df",
+    "name": "Ngày Tốt Lành",
+    "slug": "ngay-tot-lanh",
+    "origin_name": "Good Day",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250225-1/f502b95cece8b4e6cdc9eb9ddeb396e6.jpg",
+    "thumb_url": "upload/vod/20250225-1/3a655a6530e8ea839606bcbeb049eac9.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "90 phút/tập",
+    "episode_current": "Tập 5",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2025,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-03-17T13:32:16.000Z" },
+    "_id": "b75baac06e4f6bc7b70b18638c0c6e6a",
+    "name": "Sáng Tạo Doanh Châu Á (Phần 2)",
+    "slug": "sang-tao-doanh-chau-a-phan-2",
+    "origin_name": "Chuang Asia (Season 2)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250210-1/abb21af46a86c126b453d7d54f2446aa.jpg",
+    "thumb_url": "upload/vod/20250210-1/8505e1e9425cda945b97b4ede6a01ee8.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "151 phút/tập",
+    "episode_current": "Tập 7",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2025,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "a2492d6cbc4d58f115406ca14e5ec7b6",
+        "name": "Gia Đình",
+        "slug": "gia-dinh"
+      }
+    ],
+    "country": [
+      {
+        "id": "cefbf1640a17bad1e13c2f6f2a811a2d",
+        "name": "Thái Lan",
+        "slug": "thai-lan"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-03-18T01:12:43.000Z" },
+    "_id": "9d8cc04d36560d8bb56054f8f9354138",
+    "name": "Tôi Sống Một Mình",
+    "slug": "toi-song-mot-minh",
+    "origin_name": "I Live Alone",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250304-1/b823ce2b8a2904adbec6f195213be73e.jpg",
+    "thumb_url": "upload/vod/20250304-1/17c3607b473c62b0fe62bca2fc8a6e7d.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "90 phút/tập",
+    "episode_current": "Tập 587",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2013,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-03-19T20:41:25.000Z" },
+    "_id": "f37cf9ea93740f0bd3177789c2b244e4",
+    "name": "Thử Thách Thần Tượng",
+    "slug": "thu-thach-than-tuong",
+    "origin_name": "Running Man",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20241017-1/8ce53643bb316f8fb8dc3dddd955f2ce.jpg",
+    "thumb_url": "upload/vod/20241017-1/65a22ab2e96e79bfedf8ae96d955f72a.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "85 phút/tập",
+    "episode_current": "Tập 744",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2010,
+    "category": [
+      {
+        "id": "ba6fd52e5a3aca80eaaf1a3b50a182db",
+        "name": "Hài Hước",
+        "slug": "hai-huoc"
+      },
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  },
+  {
+    "modified": { "time": "2025-03-20T14:29:29.000Z" },
+    "_id": "5ea2f0a1257f0d9c2c243d7d4047aa8f",
+    "name": "Tình Yêu Bị Chiếm Hữu (Phần 2)",
+    "slug": "tinh-yeu-bi-chiem-huu-phan-2",
+    "origin_name": "Possessed Love (Season 2)",
+    "type": "tvshows",
+    "poster_url": "upload/vod/20250227-1/b101f86fe53d8afb5c3e367ba054905d.jpg",
+    "thumb_url": "upload/vod/20250227-1/6c7f30d7a33514f4f8a9aefdd02e580a.jpg",
+    "sub_docquyen": false,
+    "chieurap": false,
+    "time": "108 phút/tập",
+    "episode_current": "Tập 4",
+    "quality": "FHD",
+    "lang": "Vietsub",
+    "year": 2025,
+    "category": [
+      {
+        "id": "37a7b38b6184a5ebd3c43015aa20709d",
+        "name": "Chính Kịch",
+        "slug": "chinh-kich"
+      },
+      {
+        "id": "bb2b4b030608ca5984c8dd0770f5b40b",
+        "name": "Tình Cảm",
+        "slug": "tinh-cam"
+      },
+      {
+        "id": "a7b065b92ad356387ef2e075dee66529",
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      }
+    ],
+    "country": [
+      {
+        "id": "05de95be5fc404da9680bbb3dd8262e6",
+        "name": "Hàn Quốc",
+        "slug": "han-quoc"
+      }
+    ]
+  }
+]
